@@ -1,0 +1,1985 @@
+
+Key Concepts                                                            ultrasound imaging [2], and magnetic resonance imaging
+• The dentate line represents a true division between embry-            (MRI) [3].
+  onic endoderm and ectoderm.                                              On average, the surgical anal canal is estimated to be lon-
+• The location of the anterior peritoneal reflection is highly          ger in males than in females. Intraoperative measurements of
+  variable and can be significantly altered by disease such             the posterior anal canal have estimated the surgical anal
+  as rectal prolapse.                                                   canal to be 4.4 cm in men compared with 4.0 cm in women
+• The right and left ischioanal space communicate posteri-              [4]. In addition, the anal canal was shown to be a unique
+  orly through the deep postanal space between the levator              muscular unit in that its length did not change with age.
+  ani muscle and anococcygeal ligament.                                 However, when using MRI, the anatomy of the anal canal
+• The junction between the midgut (superior mesenteric                  has been characterized differently. MR imaging did not show
+  artery) and the hindgut (inferior mesenteric artery) leads            a difference in the length of the posterior anal canal in men
+  to a potential watershed area in the area of the splenic              and women but did show that the anterior and posterior
+  flexure.                                                              external anal sphincter length (not including puborectalis)
+• There is a normal, three-stage process by which the intes-            was significantly shorter in women [5].
+  tinal tract rotates during development beginning with her-               The anal canal forms proximally where the rectum passes
+  niation of the midgut followed by return of the midgut to             through the pelvic hiatus and joins with the puborectalis mus-
+  the abdominal cavity and ending with its fixation.                    cle. Starting at this location, the muscular anal canal can be
+                                                                        thought of as a “tube within a tube.” The inner tube is the
+                                                                        visceral smooth muscle of the internal anal sphincter and lon-
+Anatomy of the Anal Canal and Pelvic Floor                             gitudinal layer that is innervated by the autonomic nervous
+                                                                        system. The outer muscular tube consists of somatic muscles
+Textbooks of anatomy would define the “anatomic” anal                   including the components of the puborectalis and external
+canal as beginning at the dentate (pectinate) line and extend-          anal sphincter [6]. It is the outer muscular tube that provides
+ing to the anal verge. This definition is one defined truly by          conscious control over continence and is strengthened during
+the embryology and mucosal histology. However, the “surgi-              Kegel exercises. The external anal sphincter extends distal to
+cal” anal canal, as first defined by Milligan and Morgan [1],           the internal anal sphincter, and the anal canal terminates at the
+extends from the anorectal ring to the anal verge. The surgi-           anal verge where the superficial and subcutaneous portions of
+cal definition of the anal canal takes into account the sur-            the external anal sphincter join the dermis.
+rounding musculature that is critical to consider during the
+conduct of operations from low anterior resection to anal
+fistulotomy. The surgical anal canal is formed by the internal          Anal Canal Epithelium
+anal sphincter, external anal sphincter, and puborectalis
+(Fig. 1.1) and is easily identified on digital examination,             The proximal anal canal has a pink appearance and is lined
+                                                                        by the columnar epithelium of the rectal mucosa. Six to
+                                                                        12 mm proximal to the dentate line, the anal transition zone
+J. C. Carmichael (*) · S. Mills
+                                                                        (ATZ) begins. The ATZ appears purple in color and repre-
+Division of Colon and Rectal Surgery, University of California,
+Irvine, Department of Surgery, Orange, CA, USA                          sents an area of gradual transition of columnar epithelium to
+e-mail: jcarmich@hs.uci.edu                                             squamous epithelium. In a parallel to cervical anatomy, the
+
+
+© Springer Nature Switzerland AG 2022                                                                                                  3
+S. R. Steele et al. (eds.), The ASCRS Textbook of Colon and Rectal Surgery, https://doi.org/10.1007/978-3-030-66049-9_1
+4                                                                                                        J. C. Carmichael and S. Mills
+
+
+
+
+                                                                                             Longitudinal muscle
+
+                                                                                             Circular muscle
+
+                                                                                             Valve of Houston
+
+           Peritoneal reflection                                                             Column of Morgagni
+
+
+
+
+Conjoined longitudinal muscle                                                                      Iliococcygeus
+                                                                                                                          Levator
+                                                                                                   Pubococcygeus          ani muscle
+                                                                                                   Puborectalis
+Internal anal sphincter muscle
+                   Dentate line                                                                    Anal crypt
+External anal sphincter muscle                                                                     Anal gland
+                                                                                                   Intersphincteric groove
+
+    Corrugator cutis ani muscle
+
+
+                                           Anoderm                            Anal verge
+
+Fig. 1.1 Anal canal
+
+
+ATZ is the area in which the majority of human                     words, anoderm has squamous histology and is devoid of
+papillomavirus-­related dysplastic lesions are found in the        hair, sebaceous glands, and sweat glands. At the anal verge,
+anal canal [7]. The columns of Morgagni are noted in this          the anal canal lining becomes thickened and pigmented and
+area where redundant columns of tissue are noted with anal         contains hair follicles – this represents normal skin.
+crypts at their base. This forms the rippled dentate line (or         The dentate line represents a true division between embry-
+pectinate line) which can be most easily identified by locat-      onic endoderm and ectoderm. Proximal to the dentate line,
+ing the anal crypts at the base of the anal columns (columns       the innervation is via the sympathetic and parasympathetic
+of Morgagni). Anal crypts are connected to underlying anal         systems, with venous, arterial, and lymphatic drainage asso-
+glands which are the presumed source of sepsis in the major-       ciated with the hypogastric vessels. Distal to the dentate line,
+ity of anorectal abscesses and fistula. On average, there are      the innervation is via somatic nerves with blood supply and
+six anal glands surrounding the anal canal (range, 3–12) [6,       drainage from the inferior hemorrhoidal system.
+8, 9], and they tend to be more concentrated in the posterior
+quadrants. More than one gland may open into the same
+crypt, and some crypts may not be connected to anal glands.        Internal Anal Sphincter
+The anal gland ducts proceed inferior and lateral from the
+anal canal and enter the submucosa where two-thirds enter          The internal anal sphincter (IAS) is the downward continua-
+the internal anal sphincter and half terminate in the inter-       tion of the circular smooth muscle of the rectum and termi-
+sphincteric plane [8]. It is theorized that obstruction of these   nates with a rounded edge approximately 1 cm proximal to
+ducts leads to anal abscess and fistula [6]. Knowledge of the      the distal aspect of the external anal sphincter. 3D imaging
+anatomy also explains why the internal opening of a “cryp-         studies of this muscle demonstrate the overall volume does
+toglandular” anal fistula should typically be at the dentate       not vary according to gender, but the distribution is different
+line.                                                              with women tending to have a thicker medial/distal internal
+   Distal to the dentate line, the anoderm begins and extends      anal sphincter [11]. Overall, the IAS was found to be approx-
+for approximately 1.5 cm. According to Milligan and                imately 2 mm in thickness and 35 mm in length. The authors
+Morgan, anoderm or “anal canal skin… has the structure of          note that on any study, it is difficult to identify the proximal
+skin, but there are no hairs and sweat glands and it consists      portion of the IAS as it is a continuation of the wall of the
+of modified squamous transitional epithelium” [10]. In other       lower rectum.
+1   Anatomy and Embryology of the Colon, Rectum, and Anus                                                                         5
+
+Conjoined Longitudinal Muscle                                     via the anococcygeal ligament, and the proximal EAS
+                                                                   becomes continuous with the puborectalis muscle. Anteriorly,
+The anatomy and function of the perianal connective tissue         the proximal EAS forms a portion of the perineal body with
+is often overlooked but plays a significant role in normal         the transverse perineal muscle. There are clear differences in
+anorectal function. Measuring approximately 0.5 mm to              the morphology of the anterior external anal sphincter that
+2.0 mm in thickness, the conjoined longitudinal muscle (or         have been demonstrated on both MRI and three-dimensional
+conjoined longitudinal coat) lies in between the internal and      endoanal ultrasound studies in normal male and female vol-
+external anal sphincters. It begins at the anorectal ring as an    unteers [17, 18]. The normal female external anal sphincter
+extension of the longitudinal rectal muscle fibers and             has a variable natural defect occurring along its proximal
+descends caudally joined by fibers of the puborectalis mus-        anterior length below the level of the puborectalis sling that
+cle [12]. At its most caudal aspect, some of the conjoined         was demonstrated in 75 percent of nulliparous volunteers.
+longitudinal ­muscle fibers (referred to as corrugator cutis       This defect correlated with findings on anal manometry, and
+ani muscle) traverse the distal external anal sphincter and        the authors noted that it can make interpretation of an iso-
+insert into the perianal skin, and some enter the fat of the       lated endoanal ultrasound difficult resulting in overreporting
+ischiorectal fossa. Fibers of the conjoined longitudinal mus-      of obstetric sphincter defects [17]. This natural defect of the
+cle also pass obliquely and caudally through the internal          anterior anal sphincter provides some justification as to why
+anal sphincter to interlace in a network within the subepithe-     anterior anal sphincterotomy is not routinely recommended
+lial space. These subepithelial smooth muscle fibers were          in women.
+originally described by Treitz in 1853 [13] and have been             The external anal sphincter is innervated on each side by
+referred to as Treitz’s muscle. They have also been referred       the inferior rectal branch of the pudendal nerve (S2 and S3)
+to as corrugator cutis ani, musculus submucosae ani, muco-         and by the perineal branch of S4. There is substantial overlap
+sal suspensory ligament, and musculus canalis ani [14]. It         in the pudendal innervation of the external anal sphincter
+has been hypothesized by Thomson that disruption of                muscle on the two sides which enables reinnervation to be
+Treitz’s muscles results in anal cushion prolapse, vascular        partially accomplished from the contralateral side following
+outflow obstruction, and hemorrhoidal bleeding and throm-          nerve injury [19].
+bosis [15]. Haas and Fox have hypothesized that the con-
+joined longitudinal muscle, and the network of connective
+tissue that it supports, plays a role in minimizing anal incon-    Hemorrhoids
+tinence after sphincterotomy [12].
+                                                                   Hemorrhoids are a normal feature of human anatomy and
+                                                                   have been identified as present in the embryonic stage of
+External Anal Sphincter                                           development [20]. While many perceive hemorrhoids as a
+                                                                   pathologic phenomenon, they are present in all humans and
+The external anal sphincter (EAS) is composed of striated          function to improve anal continence. The pathogenesis and
+muscle that forms an elliptical tube around the internal anal      treatment of hemorrhoids will be discussed elsewhere in this
+sphincter and conjoined longitudinal muscle. As it extends         book, but here we will review the features of non-pathologic
+beyond the distal most aspect of the internal anal sphincter,      hemorrhoids.
+the intersphincteric groove is formed. At its distal most              Hemorrhoids are blood-filled cushions that line the anal
+aspect, corrugator cutis ani muscle fibers from the conjoined      canal. Hemorrhoids are located above and below the dentate
+longitudinal muscle traverse the external anal sphincter and       line and have three important components: (1) the lining
+insert into the perianal skin. Milligan and Morgan described       (mucosa or anoderm), (2) the stroma (blood vessels sur-
+the external anal sphincter as having three distinct divisions     rounded by connective tissue), and (3) anchoring connective
+from proximal to distal that were termed sphincter ani exter-      tissue that secures the hemorrhoid to the internal sphincter
+nus profundus, superficialis, and subcutaneous [1]. With           and conjoined longitudinal muscle [20]. Hemorrhoids
+time, this theory of three distinct divisions was proven invalid   receive their blood supply from terminal branches of the
+by Goligher who demonstrated that the external anal sphinc-        superior hemorrhoidal artery [21]. While it has been previ-
+ter was truly a continuous sheet of skeletal muscle extending      ously stated that the terminal branches of the superior hem-
+up to the puborectalis and levator ani muscles [16]. While the     orrhoidal artery end in the right anterior, right posterior, and
+external anal sphincter does not have three distinct anatomic      left lateral positions of the anal canal [20], this has been dis-
+layers, it is common to see the proximal portion of the EAS        puted [21]. At the level of the hemorrhoidal cushion, arterio-
+referred to as deep EAS, the midportion as the superficial         venous anastomosis (A-V shunts) exists in a complex
+EAS, and the most distal aspect as the subcutaneous                vascular network termed the “corpus cavernosum recti” by
+EAS. The mid EAS has posterior attachment to the coccyx            Steltzner [22]. This vascular network with an arterial blood
+6                                                                                                         J. C. Carmichael and S. Mills
+
+supply is why pulsatile bleeding can be seen at the time of          Puborectalis Muscle
+hemorrhoidectomy.                                                     The puborectalis muscle (PRM) fibers arise from the lower
+                                                                      part of the symphysis pubis and from the superior fascia of
+                                                                      the urogenital diaphragm and run alongside the anorectal
+Perineal Body                                                        junction. Posterior to the rectum, the fibers join forming a
+                                                                      sling. The “anorectal ring” is composed of the upper borders
+The perineal body represents the intersection of the external         of the internal anal sphincter and puborectalis muscle [1].
+anal sphincter, superficial transverse perinei, deep transverse       Contraction of the PRM sling causes a horizontal force [27]
+perinei, and bulbospongiosus (also referred to as bulbocaver-         that closes the pelvic diaphragm and decreases the anorectal
+nosus) muscles (Fig. 1.2). Recent research, based on                  angle during squeeze. This is widely considered the most
+advanced magnetic resonance imaging and ultrasound, has               important contributing factor to gross fecal continence.
+suggested that the transverse perinei (TP) and bulbospongio-
+sus (BS) muscles contribute significantly to anal inconti-           Iliococcygeus Muscle
+nence [23]. It has been proposed that the EAS, TP, and BS             Iliococcygeus muscle (ICM) fibers arise from the ischial
+muscles be collectively referred to as the “EAS complex               spines and posterior obturator fascia, pass inferior/posterior
+muscles.” In this theory, the EAS complex morphology is               and medially, and insert into the distal sacrum, coccyx, and
+“purse string” shaped rather than the typical “donut” shape           anococcygeal raphe. The ICM, along with the pubococcygeus
+previously considered. When these muscles are considered              muscle, contributes to “lifting” of the pelvic floor [27].
+as a functional unit, it lends further support to the idea that it
+is critical to attempt to repair the perineal body during over-      Pubococcygeus Muscle
+lapping sphincter reconstructions.                                    The pubococcygeus (PCM) muscle lies medial to the
+                                                                      PRM. PCM fibers arise from the anterior half of the obtu-
+                                                                      rator fascia and the high posterior pubis. The PCM fibers
+Pelvic Floor Muscles                                                 are directed posterior/inferior and medially, where they
+                                                                      intersect with fibers from the opposite side and form the
+In addition to the anal sphincter and perineal body, the leva-        anococcygeal raphe (or anococcygeal ligament). PCM
+tor ani (LA) muscles contribute to pelvic organ support. For          muscle fibers insert in the distal sacrum and tip of the coc-
+example, injury to the LA is seen in 55% of women with                cyx. Portions of the PCM contribute to the conjoined lon-
+pelvic organ prolapse but in only 16% without prolapse [24].          gitudinal muscle. The PCM forms the “levator hiatus” as
+The LA has three subdivisions including the pubococcygeus             it ellipses the lower rectum, urethra, and either the vagina
+(aka pubovisceral), puborectalis, and iliococcygeus. Some             in women or the dorsal vein of the penis in men. The leva-
+authors had previously suggested that the puborectalis was            tor hiatus is connected to the intrahiatal organs by a fas-
+part of the deep portion of the EAS [25] or that the LA did           cial condensation called the “hiatal ligament” (Fig. 1.4).
+not actually have three definable divisions [26]; however, a          The hiatal ligament arises circumferentially around the
+significant amount of evidence has been presented to the              hiatal margin as a continuation of the fascia on the pelvic
+contrary. In vivo MRI measurements in women have shown                surface of the levator muscle [31]. Enlargement of the
+distinct, visible muscle fascicle directions for each of the          levator hiatus has been implicated as a cause of female
+three LA component muscles [27]. Embryology studies have              pelvic organ prolapse [32]. The PCM is the portion of the
+also demonstrated that the puborectalis muscle is a portion of        levator ani that is typically injured during traumatic vagi-
+the LA muscle and shares a common primordium with the                 nal delivery [33].
+iliococcygeus and pubococcygeus muscles [28].
+    Innervation of the levator ani muscles has been described
+in detailed cadaveric studies [29]. The contemporary cadav-          Anatomy of the Rectum
+eric studies suggest that the LA muscles are innervated by
+the pudendal nerve branches: perineal nerve and inferior             The rectum is arbitrarily considered to have three distinct
+rectal nerve as well as direct sacral nerves S3 and/or S4 (aka       parts: the upper, middle, and lower rectum. Although not ana-
+levator ani nerve) [30]. The pubococcygeus muscle and                tomically distinct, the upper, mid, and lower rectal divisions
+puborectalis muscle are primarily innervated by the puden-           are important when considering surgical treatment of rectal
+dal nerve branches, while the iliococcygeus muscle is pri-           cancer. From the anal verge, the lower rectum is 0–7 cm;
+marily innervated by the direct sacral nerves S3 and/or S4           middle rectum, 7–12 cm; and upper rectum, 12–15 cm [34].
+(Fig. 1.3).                                                          However, the rectum is actually variable in length and may
+1    Anatomy and Embryology of the Colon, Rectum, and Anus                             7
+
+
+
+Female Pelvic Floor
+
+
+
+
+                                                             Bulbospongiosus muscle
+
+
+           Perineal body                                     Superficial transverse
+                                                             perinei muscle
+        Ischial tuberosity
+
+  Iliococcygeus muscle
+Pubococcygeus muscle                                         External anal sphincter
+    Puborectalis muscle
+
+        Gluteus maximus                                      Anococcygeal ligament
+
+
+
+                                                             Tip of coccyx
+
+
+
+
+    Male Pelvic Floor
+
+
+
+
+                                                             Bulbospongiosus muscle
+
+                                                             Superficial transverse
+           Perineal body                                     perinei muscle
+        Ischial tuberosity
+
+  Iliococcygeus muscle
+Pubococcygeus muscle                                         External anal sphincter
+    Puborectalis muscle
+
+        Gluteus maximus                                      Anococcygeal ligament
+
+
+
+                                                             Tip of coccyx
+
+
+
+
+Fig. 1.2 Pelvic floor muscles
+8                                               J. C. Carmichael and S. Mills
+
+
+
+
+Female Pelvic Floor
+
+
+
+
+                                                      Superficial transverse
+    Perineal artery and vein                          perinei muscle
+
+             Perineal nerve
+                                                      Ischial tuberosity
+          Internal pudendal
+             artery and vein
+                                                      Pudendal nerve
+
+        Levator ani muscle                            Inferior rectal artery
+
+    External anal sphincter
+                                                      Inferior rectal nerve
+    Anococcygeal ligament
+
+                    Coccyx
+
+
+
+
+Male Pelvic Floor
+
+
+
+
+    Perineal artery and vein                          Superficial transverse
+                                                      perinei muscle
+             Perineal nerve
+
+
+          Internal pudendal                           Ischial tuberosity
+             artery and vein
+                                                      Pudendal nerve
+
+        Levator ani muscle
+                                                      Inferior rectal nerve
+    External anal sphincter
+                                                      Inferior rectal artery
+    Anococcygeal ligament
+
+                    Coccyx
+
+
+
+
+Fig. 1.3 Pelvic floor nerves and blood supply
+1   Anatomy and Embryology of the Colon, Rectum, and Anus                                                                           9
+
+Fig. 1.4 Pelvic floor
+anatomy, abdominal view
+
+
+                                   Pubococcygeus                                                             Puborectalis
+
+
+                                    Hiatal ligament
+
+
+
+
+                                                                                                             Dorsal vein of penis
+                                                                                                             Urethra
+                                     Levator hiatus
+                                                                                                                   Pubococcygeus
+                                 Obturator internus                                                                Anorectal junction
+                                                                                                                   Anococcygeal
+                                                                                                                   raphe
+                                    Piriformis
+
+
+
+
+extend beyond 15 cm from the anal verge. The upper rectum          Mesorectum
+can be distinguished from the sigmoid colon by the absence
+of taenia coli and epiploic appendages.                            The origin of the word “mesorectum” is difficult to identify
+   The majority of the rectum lies outside of the peritoneal       and may be attributed to Maunsell in 1892 [36] but was cer-
+cavity, although anteriorly and laterally the upper rectum is      tainly later popularized by Heald [37]. Unfortunately, the
+covered by a layer of visceral peritoneum down to the perito-      term mesorectum is a misnomer that is not generally
+neal reflection. The location of the anterior peritoneal reflec-   acknowledged in classic texts of anatomy such as the Nomina
+tion is highly variable and can be significantly altered by        Anatomica [38]. In anatomic terms, the prefix “meso” refers
+disease such as rectal prolapse. Given the importance of the       to two layers of peritoneum that suspend an organ, and the
+location of the peritoneal reflection with respect to transanal    suffix applied indicates the target organ (e.g., mesocolon).
+excision of rectal tumors, one study sought to identify the        The term “meso” cannot be assigned to the rectum, as it
+location of the anterior peritoneal reflection in 50 patients      implies a mobile, suspended rectum, which may only be the
+who were undergoing laparotomy [35]. It was found that the         case in patients with rectal prolapse.
+anterior peritoneal reflection was located on average 9 cm            The mesorectum is a term employed by surgeons to describe
+from the anal verge in females and 9.7 cm from the anal            the fascial envelope of the rectum that is excised during surgi-
+verge in males – there was no statistically significant differ-    cal treatment of rectal cancer. Indeed, failure to completely
+ence based on gender.                                              excise this envelope intact has been associated with an increased
+10                                                                                                       J. C. Carmichael and S. Mills
+
+Fig. 1.5 Fascial relationships
+of the rectum
+                                   Rectovesical pouch
+
+
+
+
+                                                                                                                        Peritoneum
+
+
+                                                                                                                        Presacral
+                                                                                                                        fascia
+
+
+
+                                                                                                                        Retrosacral
+                                                                                                                        fascia
+
+
+
+                                                                                                                        Denonvilliers’
+                                                                                                                        fascia
+
+                                                                                                                        Anterior
+                                                                                                                        mesorectum
+
+
+
+                                             Prostate
+
+                                     Seminal vesicles
+
+
+
+
+incidence of local recurrence of rectal cancer [39]. The meso-     layer of the fascia propria 3–5 cm proximal to the anorectal
+rectum is contained within the fascia propria. The fascia pro-     junction [42]. This tough fascia layer is surgically relevant as
+pria is an upward projection of the parietal endopelvic fascia     it must be sharply incised during total mesorectal excision
+that lines the walls and floor of the pelvis. The fascia propria   [40]. The space posterior to the retrosacral fascia is referred
+encloses the perirectal fat, lymphatics, blood vessels, and        to as the supralevator or retrorectal space.
+nerves and is not considered a barrier strong enough to prevent
+the spread of infection or malignancy [40].
+                                                                   Waldeyer’s Fascia
+
+Presacral Fascia                                                  There is significant confusion about what Waldeyer’s fascia
+                                                                   represents as the eponym has been used to describe the pre-
+The presacral fascia is a thickened portion of the parietal        sacral fascia, the retrosacral fascia, or all fascia posterior to
+endopelvic fascia overlying the sacrum that covers the presa-      the rectum. In Waldeyer’s original description of pelvic fas-
+cral veins and hypogastric nerves (Fig. 1.5). It extends later-    cia, there was no particular emphasis on the presacral com-
+ally to cover the piriformis and upper coccyx. As the presacral    ponent [40, 42]. While the debate continues regarding
+fascia extends laterally, it becomes continuous with the fas-      “Waldeyer’s fascia,” it is important to simply understand that
+cia propria and contributes to the lateral ligaments of the rec-   the phrase can have the potential to mean presacral fascia,
+tum. Caudally, this fascia extends to the anorectal junction       retrorectal fascia, or both [43].
+covering the anococcygeal ligament. During total mesorectal
+excision, the fascia propria is elevated sharply off the presa-
+cral fascia. Leaving the presacral fascia intact eliminates the    Denonvilliers’ Fascia
+possibility of causing presacral bleeding.
+                                                                   Denonvilliers’ fascia arises from the fusion of the two walls
+                                                                   of the embryological peritoneal cul-de-sac and extends from
+Retrosacral Fascia                                                the deepest point of the rectovesical pouch to the pelvic
+                                                                   floor [44]. Originally described by Denonvilliers in 1836 as
+The retrosacral fascia originates at the third and fourth por-     a “prostatoperitoneal” membranous layer between the rec-
+tion [41] of the sacrum and extends anteriorly to the posterior    tum and seminal vesicles, Denonvilliers fascia is also pres-
+1   Anatomy and Embryology of the Colon, Rectum, and Anus                                                                        11
+
+ent in females as part of the rectovaginal septum and is            runs just above the lateral ligament at its point of inser-
+sometimes referred to as rectovaginal fascia. It is found           tion on the endopelvic fascia, the middle rectal artery (if
+immediately beneath the vaginal mucosa and is clearly what          present) runs posterior to the lateral ligament, and the
+most would consider as part of the vaginal wall. It merges          nervi recti fibers (which originate from the inferior hypo-
+superiorly with the cardinal/uterosacral complex in females         gastric plexus) course transversely under the lateral liga-
+or the rectovesical pouch in males. It merges laterally with        ment to the rectal wall [48]. Other modern cadaveric
+the endopelvic fascia overlying the levator muscle and dis-         investigations note the rarity of middle rectal arteries and
+tally with the perineal body. It contains collagen, some            the absence of clinically relevant neurovascular struc-
+strands of smooth muscle, and heavy elastin fibers.                 tures in the lateral ligaments [49].
+Rectoceles represent a defect in this layer that allows the
+rectum to bulge anteriorly [45].
+    Microscopically, the Denonvilliers’ fascia has two layers;       ectal Valves: The Spiral Valves of Houston
+                                                                    R
+however, it is not possible to discern two layers during pelvic     and Kohlrausch’s Valve
+dissection [44]. In the anterior rectal plane, the mesorectum is
+contained by the fascia propria which lies dorsal to                The first anatomic description of rectal valves is credited to
+Denonvilliers’ fascia. The cavernous nerves run in neurovascu-      Giovanni Morgagni [50]; however, it was John Houston, an
+lar bundles at the anterolateral border of Denonvilliers’ fascia.   Irish anatomist and surgeon, who presented the first seminal
+                                                                    work on the structures [51, 52]. Houston described an aver-
+                                                                    age of three oblique valves with an upward orientation and
+Lateral Ligaments                                                  concave surface that were located successively on opposite
+                                                                    sides of the rectum that formed “a sort of spiral tract down its
+While frequently referred to by surgeons, there are two con-        cavity.” Houston theorized that these valves might aid in con-
+troversial points regarding the lateral ligaments of the rec-       tinence by supporting “the weight of fecal matter”; however,
+tum. First, do the lateral ligaments exist? Second, what do         this has not been substantiated elsewhere.
+they contain? Miles refers to division of the lateral ligaments         Modern anatomy texts usually also describe three rectal
+of the rectum in his seminal description of abdominoperineal        valves (Fig. 1.1) with the superior and inferior valves located
+resection in 1908. Specifically, he notes “In these structures      on the left side of the rectum and the more prominent middle
+the middle haemorrhoidal arteries are found but seldom              rectal valve on the right; however, this is not uniformly the
+require a ligature” [46]. It is interesting to note that at least   case [53]. Only 45.5% of patients will have the classic three
+one modern cadaveric dissection study identified the pres-          valve rectal anatomy; 32.5% will have only two valves; and
+ence of a middle rectal artery in only 22% of specimens [41]        10.25% may have four valves.
+which could be a contributing factor as to why Miles saw no             After Houston’s definitive description of rectal valves in
+significant bleeding in this area.                                  1830, Otto Kohlrausch, a physician and scientist in Germany,
+    Total mesorectal excision, as popularized and described         described a single mid-rectal valve in 1854 [54]. When there
+by Heald, involves sharp dissection along the fascia propria        are three valves, current anatomists identify Kohlrausch’s
+circumferentially to the pelvic floor. While acknowledging          valve as the middle one [51]. This valve is usually the largest,
+that the middle rectal vessels are “divided as far from the         located on the right and approximately 9–11 cm from the
+carcinoma as possible,” Heald does not mention “lateral liga-       anal verge, and some authors have suggested this valve could
+ments” of the rectum at all [47].                                   serve as an intraluminal marker for the area of the anterior
+    In an extensive review of the anatomy of the lateral liga-      peritoneal reflection [55].
+ment, Church notes that it is a common misconception that
+the lateral ligaments contain the middle rectal artery at all. It
+appears that the lateral ligaments comprise “primarily nerves       Anorectal Spaces
+and connective tissue” and their division without bleeding
+attests to the absence of a “significant accessory rectal artery    It is important to acknowledge and understand the anorectal
+in this location in the majority of patients” [40].                 spaces created by the various myofascial relationships in the
+    In a separate cadaveric study, the lateral ligaments of         pelvis as these spaces help us understand how anorectal sep-
+the rectum were identified as trapezoid structures origi-           sis can spread throughout the pelvis.
+nating from mesorectum and anchored to the endopelvic
+fascia at the level of the midrectum. It was recommended
+that, as lateral extensions of the mesorectum, the liga-            Perianal Space
+ments must be cut and included in the total mesorectal
+excision (TME) specimen. It was further noted that the              The perianal space contains external hemorrhoid cushions,
+lateral ligaments did not contain middle rectal arteries or         the subcutaneous external anal sphincter and the distal inter-
+nerve structures of importance. The urogenital bundle               nal anal sphincter. The perianal space is in communication
+12                                                                                                        J. C. Carmichael and S. Mills
+
+
+
+
+Peritoneum
+
+ Levator ani
+    muscle
+
+Obturator internus                                                                                             Supralevator space
+           muscle
+                                                                                                               Pudendal
+     Internal anal                                                                                             (Alcock’s) canal
+ sphincter muscle                                                                                              Ischioanal space
+     Puborectalis                                                                                              Intersphincteric space
+         muscle
+    External anal                                                                                              Transverse
+ sphincter muscle                                                                                              fibrous septum of
+                                                                                                               ischiorectal fossa
+
+                                                                                                               Perianal space
+
+Fig. 1.6 Perianal and perirectal spaces, coronal view
+
+
+
+with the intersphincteric space (Fig. 1.6). The perianal space     muscle and external anal sphincter. The obturator internus
+has its cephalad boundary at the dentate line and laterally to     muscle and obturator fascia make up the lateral boarder of
+the subcutaneous fat of the buttocks or is contained by fibers     the ischioanal space. The posterior boundary is formed by
+extending from the conjoined longitudinal muscle often             the lower border of the gluteus maximus muscle and the
+referred to as corrugator cutis ani muscle fibers. Otherwise,      sacrotuberous ligament. The space has an anterior boundary
+the perianal space is contained by anoderm.                        formed by the superficial and deep transverse perineal mus-
+                                                                   cles. The caudal boundary is skin of the perineum. The
+                                                                   ischioanal fossa contains adipose tissue, pudendal nerve
+Intersphincteric Space                                            branches, and superficial branches of the internal pudendal
+                                                                   vessels. The right and left ischioanal space communicate
+The intersphincteric space is the potential space that lies        posteriorly through the deep postanal space between the
+between the internal and external anal sphincter and is con-       levator ani muscle and anococcygeal ligament (Fig. 1.7)
+tinuous with the perianal space. It is of clinical importance as   [56]. When the ischioanal and perianal spaces are regarded
+cryptoglandular infections tend to begin in this area and          as a single space, it is referred to as the ischioanal fossa [43].
+expand elsewhere to create anal fistula [6].
+
+                                                                   Supralevator Space
+Submucous Space
+                                                                   The upper boundary of the supralevator space is the perito-
+This space lies between the medial boarder of the internal         neum, the lateral boundary is the pelvic wall, the medial
+anal sphincter and the anal mucosa proximal to the dentate         boundary is the rectum, and the inferior boarder is the levator
+line. It is continuous with the submucosa of the rectum. This      ani muscle (Fig. 1.8).
+area contains internal hemorrhoid vascular cushions.
+
+                                                                   Superficial and Deep Postanal Spaces
+Ischioanal/Ischiorectal Space
+                                                                   These spaces are located posterior to the anus and inferior to
+The ischioanal (also referred to as ischiorectal) space is the     the levator muscle. The superficial postanal space is more
+largest anorectal space. It has been described as a pyramid        caudal and is located between the anococcygeal ligament
+shape with its apex at the levator muscle insertion into the       and the skin. The superficial postanal space allows commu-
+obturator fascia. The medial boarder is thus the levator ani       nication of perianal space sepsis.
+1   Anatomy and Embryology of the Colon, Rectum, and Anus                                                                       13
+
+
+
+
+                                                                                                           Supralevator space
+
+                                                                                                           Ischioanal space
+
+                                                                                                           Intersphincteric space
+
+
+
+
+Fig. 1.7 Communication of the anorectal spaces
+
+
+Fig. 1.8 Perianal and
+perirectal spaces, lateral view
+
+
+
+
+                                                                                                       Retrorectal space
+
+                                                                                                       Retrosacral fascia
+
+                                                                                                       Supralevator space
+
+                                                                                                       Levator ani muscle
+
+                                                                                                       Deep postanal space
+
+                                                                                                       Anococcygeal ligament
+
+                                                                                                       Superficial postanal space
+
+
+
+
+   The deep postanal space (retrosphincteric space of            Retrorectal Space
+Courtney) [57] is located between the levator ani muscle and
+the anococcygeal raphe. This space allows ischioanal sepsis      The retrorectal space is found between the presacral fascia
+to track from one side to the other resulting in the so-called   and fascia propria. It contains no major blood vessels or
+“horseshoe” abscess.                                             nerves. It is limited laterally by the lateral ligaments of the
+14                                                                                                                 J. C. Carmichael and S. Mills
+
+piriformis fascia and inferiorly by the retrosacral fascia. The               iddle Rectal Artery
+                                                                             M
+fascia propria and presacral fascia come together at the apex                The middle rectal artery (MRA) has been variably noted
+of this space [40].                                                          in many studies. It may be found on one or both sides of
+                                                                             the rectum and has been noted to be present 12–28% of
+                                                                             the time [49, 59]. At least one study reported the pres-
+Rectal Blood Supply                                                         ence of the middle rectal artery in at least 91% of cadav-
+                                                                             eric specimens [48]. The MRA originates from the
+The rectum is supplied by the superior, middle, and inferior                 anterior division of the internal iliac or pudendal arter-
+rectal (hemorrhoidal) arteries (Fig. 1.9). Both the middle and               ies. Please see the “Lateral Ligament” discussion above
+inferior hemorrhoidal vessels are paired arteries, and the                   for more review on the anatomic course of the middle
+superior rectal artery is not.                                               rectal artery.
+
+ uperior Rectal Artery
+S                                                                            I nferior Rectal Artery
+The superior rectal artery (SRA) is the continuation of the                   The inferior rectal arteries (IRA) are paired vessels that orig-
+inferior mesenteric artery and is so named after the inferior                 inate as branches of the internal pudendal artery which
+mesenteric artery crosses the left iliac vessels. The SRA                     receives its blood supply from the internal iliac artery. The
+gives off a rectosigmoid branch, an upper rectal branch, and                  artery originates in the pudendal canal and is entirely extra-­
+then bifurcates into right and left terminal branches in 80%                  pelvic (caudal to the levator ani) in its distribution. The IRA
+[58] of cases as it descends caudally in the mesorectum. On                   traverses the obturator fascia and the ischiorectal fossa and
+average, eight terminal branches of the SRA have been iden-                   pierces the wall of the anal canal in the region of the external
+tified in the distal rectal wall [21].                                        anal sphincter [40].
+
+
+Fig. 1.9 Arterial anatomy of the
+colon and rectum
+
+                                                                                                                         Arc of Riolan
+                                                                                                                         Superior
+                                                                                                                         mesenteric artery
+
+
+                                         Middle                                                                          Ascending branch of
+                                    colic artery                                                                         left colic artery
+
+                                          Right                                                                          Inferior
+                                    colic artery                                                                         mesenteric artery
+
+                                                                                                                         Marginal artery
+                                       Ileocolic
+                                          artery                                                                            Left colic artery
+                                                                                                                            Sigmoid arteries
+
+
+
+
+                                                                                                                                  Common
+                                                                                                                                  iliac artery
+                                   Internal iliac
+                                         artery                                                                                   Superior
+                                                                                                                                  rectal artery
+                                                                                                                                  Median
+                                                                                                                                  sacral artery
+
+                                                    Middle rectal artery
+                                                    Inferior rectal artery
+1   Anatomy and Embryology of the Colon, Rectum, and Anus                                                                                 15
+
+ enous and Lymphatic Drainage of the Rectum
+V                                                                     drain along the inferior rectal lymphatics to the superficial
+and Anus                                                              inguinal nodes.
+
+Venous drainage from the rectum and anus occurs via
+both the portal and systemic systems. Middle and inferior             Innervation of the Rectum and Anus
+rectal veins drain to the systemic systems via the internal
+iliac vein, while the superior rectal vein drains the rectum          Sympathetic fibers arise from L1, L2, and L3 and pass
+and upper anal canal into the portal system via the infe-             through the sympathetic chains and join the preaortic plexus
+rior mesenteric vein (Fig. 1.10). The two systems of                  (Fig. 1.11). From there, they run adjacent and dorsal to the
+drainage in the rectum, thus, explain the potential devel-            inferior mesenteric artery as the mesenteric plexus and inner-
+opment of rectal varices in patients with portal                      vate the upper rectum. The lower rectum is innervated by the
+hypertension.                                                         presacral nerves from the hypogastric plexus. Two main
+    Lymphatics from the upper two-thirds of the rectum                hypogastric nerves, on either side of the rectum, carry sym-
+drain to the inferior mesenteric lymph nodes and then to the          pathetic information from the hypogastric plexus to the pel-
+para-­aortic lymph nodes. Lymphatic drainage from the                 vic plexus. The pelvic plexus lies on the lateral side of the
+lower third of the rectum occurs along the superior rectal            pelvis at the level of the lower third of the rectum adjacent to
+artery and laterally along the middle rectal artery to the            the lateral stalks (please see discussion of lateral stalks
+internal iliac lymph nodes. In the anal canal, lymphatics             above).
+above the dentate drain to the inferior mesenteric and inter-            Parasympathetic fibers to the rectum and anal canal origi-
+nal iliac lymph nodes. Below the dentate line, lymphatics             nate from S2, S3, and S4 to penetrate through the sacral fora-
+
+Fig. 1.10 Venous anatomy of
+the colon and rectum
+                                                        Portal vein                                      Splenic vein
+
+
+
+                                           Superior mesenteric vein                              Inferior mesenteric vein
+
+
+
+
+                                    Right colic
+                                          vein
+                                                                                                                            Left colic vein
+
+
+
+
+                                 Ileocolic vein
+                                                                                                                            Sigmoid vein
+                                     Common
+                                     iliac vein
+                                                                                                                            Middle
+                                Right external
+                                                                                                                            sacral vein
+                                     iliac vein
+                                       Internal                                                                             Superior
+                                     iliac vein                                                                             rectal vein
+
+
+
+
+                                                       Middle rectal vein
+
+
+                                                       Inferior rectal vein
+16                                                                                                   J. C. Carmichael and S. Mills
+
+Fig. 1.11 Nerves of the
+rectum
+
+
+
+
+                                                                                                            Sympathetic trunk
+
+
+                                         Superior hypogastric
+                                         plexus (sympathetic)
+
+                                                Pelvic plexus                                                   Pelvic splanchnic
+                                                                                                                nerves (nervi
+                                                                                                                erigentes)
+
+
+
+
+                                                                                                                Pudendal nerve
+
+
+                               Dorsal nerve
+                                   of penis                                                                 Inferior rectal nerve
+
+
+
+
+                                                                                           Perineal nerve
+
+
+
+
+men and are called the nervi erigentes. These nerves course     The overall length is variable with an average length approx-
+laterally and anteriorly to join the sympathetic hypogastric    imating 150 cm. The right and left sides of the colon are
+nerves and form the pelvic plexus on the pelvic sidewall.       fused to the posterior retroperitoneum (secondarily retroperi-
+From here, postganglionic mixed parasympathetic and sym-        tonealized), while the transverse colon and sigmoid colon
+pathetic nerve fibers supply the rectum, genital organs, and    are relatively free within the peritoneum. The transverse
+anal canal. The periprostatic plexus is considered a subdivi-   colon is held in position via its attachments to the right/left
+sion of the pelvic plexus and supplies the prostate, seminal    colon at the flexures (hepatic and splenic, respectively) and
+vesicles, corpora cavernosa, vas deferens, urethra, ejacula-    is further fused to the omentum. Generally, the colon is
+tory ducts, and bulbourethral glands.                           located peripherally within the abdomen with the small
+   The internal anal sphincter is innervated by sympathetic     bowel located centrally.
+(L5) and parasympathetic (S2, S3, and S4) nerves following         There are three classic anatomic points of differentiation
+the same route as the nerves to the rectum as noted above.      between the colon and the small intestine: the appendices
+The external anal sphincter is innervated on each side by the   epiploicae, the taeniae coli, and the haustra. The appendices
+inferior rectal branch of the internal pudendal nerve (S2 and   epiploicae are non-mesenteric fat protruding from the sero-
+S3) and by the perineal branch of S4. Anal sensation is medi-   sal surface of the colon. They are likely residual from the
+ated by the inferior rectal branch of the pudendal nerve.       antimesenteric fat of the embryologic intestine which dissi-
+                                                                pates (unlike the omentum on the stomach). The taenia coli
+                                                                are three thickened bands of outer, longitudinal muscle of the
+Anatomy of the Colon                                           colon. This outer layer of muscle is indeed circumferentially
+                                                                complete [60] but is considerably thicker in three areas rep-
+The colon is a long tubular organ consisting of muscle and      resented by the taenia. The three taeniae have been given
+connective tissue with an inner mucosal layer. The diameter     separate names by some: taenia libera to represent the ante-
+of the colon differs depending upon which segment is evalu-     rior band, taenia mesocolica for the posteromedial band, and
+ated and generally decreases from proximal to distal (cecum     taenia omentalis for posterolateral band. The bands are con-
+about 7 cm and sigmoid colon about 2.5 cm in diameter).         tinuous from their origin at the base of the appendix until the
+1   Anatomy and Embryology of the Colon, Rectum, and Anus                                                                        17
+
+rectosigmoid junction where they converge (marking an ana-         thickened line termed the white line of Toldt, which can serve
+tomically identifiable differentiation between the sigmoid         as a surgeon’s guide for mobilization of the ascending colon
+colon and rectum). Though they run along the full length of        off of its attachments to the retroperitoneum, most notably the
+the colon, they are not as long as the bowel wall. This differ-    right kidney (Gerota’s fascia) and the loop of the duodenum
+ence in length results in outpouchings of the bowel wall           located posterior and superior to the ileocolic vessels. The
+between the taenia referred to as haustra. The haustra are         right ureter and the right gonadal vessels pass posteriorly to
+further septated by the plicae semilunares.                        the ascending mesocolon within the retroperitoneum.
+
+
+Cecum                                                             Transverse Colon
+
+The proximal most portion of the colon is termed the cecum, a      The transverse colon traverses the upper abdomen from the
+saclike segment of the colon below (proximal to) the ileocecal     hepatic flexure on the right to the splenic flexure on the left.
+valve. The cecum is variable in size but generally is about 8 cm   It is generally the longest section of colon (averaging
+in length and 7 cm in diameter. At its base is the appendix.       45–50 cm) and swoops inferiorly as it crosses the abdomen.
+Terminating in the posteromedial area of the cecum is the ter-     The entire transverse colon is covered by visceral perito-
+minal ileum (ileocecal valve). The cecum is generally covered      neum, but the greater omentum is fused to the anterosuperior
+by visceral peritoneum, with more variability near the transi-     surface of the transverse colon. Superior to the transverse
+tion to the ascending colon (upper or distal cecum). The ileoce-   mesocolon, inferior to the stomach, and posterior to the
+cal valve is a circular muscular sphincter which appears as a      omentum is the pocket of the peritoneal cavity termed the
+slit-like (“fish-mouth”) opening noted on an endoscopic evalu-     lesser sac, with the pancreas forming the posterior most
+ation of the cecum. The valve is not competent in all patients,    aspect. The splenic flexure is the sharp turn from the trans-
+but when present, its competence leads to the urgency of a         versely oriented transverse colon to the longitudinally ori-
+colon obstruction as it develops into a closed-loop obstruction.   ented descending colon. It can be adherent to the spleen and
+Regulation of ileal emptying into the colon appears to be the      to the diaphragm via the phrenicocolic ligament.
+prime task in ileocecal valve function [61].
+
+                                                                   Descending Colon
+The Appendix
+                                                                   The descending colon travels inferiorly from the splenic
+The appendix is an elongated, true diverticulum arising from       flexure for the course of about 25 cm. It is fused to the retro-
+the base of the cecum. The appendiceal orifice is generally        peritoneum (similarly to the ascending colon) and overlies
+about 3–4 cm from the ileocecal valve. The appendix itself is      the left kidney as well as the back/retroperitoneal muscula-
+of variable length (2–20 cm) and is about 5 mm in diameter         ture. Its anterior and lateral surfaces are covered with vis-
+in the non-inflamed state. Blood is supplied to the appendix       ceral peritoneum, and the lateral peritoneal reflection (white
+via the appendiceal vessels contained within the mesoappen-        line of Toldt) is again present.
+dix. This results in the most common location of the appen-
+dix being medially on the cecum toward the ileum, but the
+appendix does have great variability in its location including     Sigmoid Colon
+pelvic, retrocecal, preileal, retroileal, and subcecal. Though
+traditionally thought to be an unnecessary vestige, modern         The sigmoid colon is the most variable of the colon segments.
+research points to the appendix which is rarely absent and         It is generally 35–45 cm in length. It is covered by visceral
+rarely altered actually playing an important role in immune        peritoneum, thereby making it mobile. Its shape is considered
+function and/or the colonic microbiome [62].                       “omega-shaped,” but its configuration and attachments are
+                                                                   variable. Its mesentery is of variable length but is fused to the
+                                                                   pelvic walls in an inverted-V shape creating a recess termed
+Ascending Colon                                                   the intersigmoid fossa. Through this recess travel the left ure-
+                                                                   ter, gonadal vessels, and often the left colic vessels.
+From its beginning at the ileocecal valve to its terminus at the
+hepatic flexure where it turns sharply medially to become the
+transverse colon, the ascending colon measures on average,         Rectosigmoid Junction
+about 15–18 cm. Its anterior surface is covered in visceral
+peritoneum, while its posterior surface is fused with the retro-   The end of the sigmoid colon and the beginning of the rec-
+peritoneum. The lateral peritoneal reflection can be seen as a     tum is termed the rectosigmoid junction. It is noted by the
+18                                                                                                            J. C. Carmichael and S. Mills
+
+confluence of the taeniae coli and the end of epiploicae                and then crosses over the third portion of the duodenum to
+appendices. While some surgeons have historically consid-               continue within the base of the mesentery. From its left side,
+ered the rectosigmoid junction to be a general area (compris-           the SMA gives rise to up to 20 small intestinal branches,
+ing about 5 cm of distal sigmoid and about 5 cm of proximal             while the colic branches originate from its right side. The
+rectum), others have described a distinct and clearly defined           most constant of the colic branches is the ileocolic vessel
+segment. It is the narrowest portion of the large intestine,            which courses through the ascending mesocolon where it
+measuring 2–2.5 cm in diameter. Endoscopically, it is noted             divides into a superior (ascending) branch and an inferior
+as a narrow and often sharply angulated area above the rela-            (descending) branch [70]. A true right colic artery is absent
+tively capacious rectum and above the three rectal valves.              up to 20% of the time and, when present, typically arises
+    In the early nineteenth century, it was proposed that the sigmoid   from the SMA. Alternatively, the right colic artery can arise
+acts as a reservoir for stool, thus aiding in continence [63].          from the ileocolic vessels or from the middle colic vessels
+Subsequently, an area of thickened circular muscle within the wall      [58, 70, 71]. The middle colic artery arises from the SMA
+of the rectosigmoid was described and felt to function as a sphincter   near the inferior border of the pancreas. It branches early to
+of sorts. Historically, it has been variably named the sphincter ani    give off right and left branches. The right branch supplies the
+tertius, rectosigmoid sphincter, and pylorus sigmoidorectalis [64–      hepatic flexure and right half of the transverse colon. The left
+68]. A more recent evaluation of the rectosigmoid junction utilizing    branch supplies the left half of the transverse colon to the
+anatomic and histologic studies as well as radiographic evaluation      splenic flexure. In up to 33% of patients, the left branch of
+concluded that there was an anatomic sphincter at the rectosigmoid      the middle colic artery can be the sole supplier of the splenic
+junction [69]. Microscopic evaluation of the area does reveal thick-    flexure [70, 72]. Recent reports describe an accessory middle
+ening of the circular muscle layer as it progresses toward the rec-     colic artery (AMCA). One single-center study demonstrates
+tum. Though not identifiable externally, radiologic evaluation can      that more than one-third of patients had an AMCA (36.4%)
+identify the area as a narrow, contractile segment [69].                supplying the splenic flexure with about 85% originating off
+                                                                        of the SMA and coursing along the inferior border of the
+                                                                        pancreas toward the splenic flexure [73].
+Blood Supply
+
+The colon receives blood supply from two main sources,                  Inferior Mesenteric Artery
+branches of the superior mesenteric artery (SMA) (cecum,
+ascending, and transverse colon) and branches of the inferior           The inferior mesenteric artery (IMA) is the third unpaired,
+mesenteric artery (IMA) (descending and sigmoid colon)                  anterior branch off of the aorta, originating 3–4 cm above the
+(Fig. 1.9). There is a watershed area between these two main            aortic bifurcation at the level of the L2 to L3 vertebrae. As
+sources located just proximal to the splenic flexure where              the IMA travels inferiorly and to the left, it gives off the left
+branches of the left branch of the middle colic artery anastomose       colic artery and several sigmoidal branches. After these
+with those of the left colic artery. This area represents the border    branches, the IMA becomes the superior hemorrhoidal (rec-
+of the embryologic midgut and hindgut. Though the blood sup-            tal) artery as it crosses over the left common iliac artery. The
+ply to the colon is somewhat variable, there are some general           left colic artery divides into an ascending branch (splenic
+common arteries. The cecum and right colon are supplied by the          flexure) and a descending branch (the descending colon).
+terminus of the SMA, the ileocolic artery. The right colic artery       The sigmoidal branches form a fairly rich arcade within the
+is less consistent and, when present, can arise directly from the       sigmoid mesocolon (similar to that seen within the small
+SMA, from the ileocolic, or from other sources. The transverse          bowel mesentery). The superior hemorrhoidal artery carries
+colon is supplied via the middle colic artery, which branches           into the mesorectum and into the rectum. The superior hem-
+early to form right and left branches. The middle colic artery          orrhoidal artery bifurcates in about 80% of patients.
+originates directly from the SMA. The left colon and sigmoid
+colon are supplied by branches of the IMA, namely, the left colic
+and a variable number of sigmoid branches. After the final               he Marginal Artery and Other Mesenteric
+                                                                        T
+branches to the sigmoid colon, the IMA continues inferiorly as          Collaterals
+the superior hemorrhoidal (rectal) artery.
+                                                                        The major arteries noted above account for the main source
+                                                                        of blood within the mesentery. However, the anatomy of the
+Superior Mesenteric Artery                                             mesenteric circulation and the collaterals within the mesen-
+                                                                        tery remain less clear. Haller first described a central artery
+The superior mesenteric artery (SMA) is the second, unpaired            anastomosing all mesenteric branches in 1786 [74]. When
+anterior branch off of the aorta (the first being the celiac            Drummond demonstrated its surgical significance in the
+trunk). It arises posterior to the upper edge of the pancreas           early twentieth century, it became known as the marginal
+(near the L1 vertebrae), courses posterior to the pancreas,             artery of Drummond [75, 76]. The marginal artery has been
+1   Anatomy and Embryology of the Colon, Rectum, and Anus                                                                            19
+
+shown to be discontinuous or even absent in some patients,            nerves which synapse within the celiac, preaortic, and supe-
+most notably at the splenic flexure (Griffiths’ critical point),      rior mesenteric ganglia. The postganglionic fibers then fol-
+where it may be absent in up to 50% of patients [77]. This            low the SMA to the right colon. The sympathetic innervation
+area of potential ischemia is the embryologic connection              for the left half originates from L1, L2, and L3.
+between the midgut and hindgut. Inadequacy of the marginal            Parasympathetic fibers to the right colon come from the pos-
+artery likely accounts for this area being most severely              terior (right) branch of the vagus nerve and celiac plexus.
+affected in cases of colonic ischemia. Another potential              They travel along the SMA to synapse with the nerves within
+(though controversial) site of ischemia is at a discontinuous         the intrinsic autonomic plexuses of the bowel wall. On the
+area of marginal artery located at the rectosigmoid junction          left side, the parasympathetic innervation comes from S2,
+termed Sudeck’s critical point. Surgical experience would             S3, and S4 via splanchnic nerves.
+question whether this potential area of ischemia exists; a
+recent fluorescence study indicates that it does [78], though
+its clinical importance remains in doubt.                             Embryology
+
+                                                                      Though the embryologic development of the GI system is
+Venous Drainage                                                      complex, a working knowledge of the development of the
+                                                                      small bowel, colon, and anorectum is critical for a colorectal
+Venous drainage of the colon largely follows the arterial sup-        surgeon as it can aid in understanding pathophysiology and
+ply with superior and inferior mesenteric veins draining both         is essential for recognizing surgical planes.
+the right and left halves of the colon (Fig. 1.10). They ulti-
+mately meet at the portal vein to reach the intrahepatic sys-
+tem. The superior mesenteric vein (SMV) travels parallel              Anus and Rectum
+and to the right of the artery. The inferior mesenteric vein
+(IMV) does not travel with the artery but rather takes a lon-         The colon distal to the splenic flexure, including the rectum and
+ger path superiorly to join the splenic vein. It separates from       the anal canal (proximal to the dentate line), is derived from the
+the artery within the left colon mesentery and runs along the         hindgut and therefore has vascular supply from the inferior
+base of the mesentery where it can be found just lateral to the       mesenteric vessels (Fig. 1.9). The dentate line (Fig. 1.1) is the
+ligament of Treitz and the duodenum before joining the                fusion plane between the endodermal and ectodermal tubes. The
+splenic vein on the opposite (superior) side of the transverse        cloacal portion of the anal canal has both endodermal and ecto-
+mesocolon. Dissecting posterior to the IMV can allow for              dermal components which develop into the anal transitional zone
+separation of the mesenteric structures from the retroperito-         [79]. The terminal portion of the hindgut or cloaca fuses with the
+neal structures during a medial-to-lateral dissection.                proctodeum (an ingrowth from the anal pit).
+                                                                           The cloaca originates at the portion of the rectum below
+                                                                      the pubococcygeal line, while the hindgut originates above
+Lymphatic Drainage                                                   it. Before the fifth week of development, the intestinal and
+                                                                      urogenital tracts are joined at the level of the cloaca. By the
+The colon wall has a dense network of lymphatic plexuses.             eighth week, the urorectal septum migrates caudally to
+These lymphatics drain into extramural lymphatic channels             divide the cloacal closing plate into an anterior urogenital
+which follow the vascular supply of the colon. Lymph nodes are        plate and a posterior anal plate. Anorectal rings result from
+plentiful and are typically divided into four main groups. The        a posterior displacement in the septum and the resultant
+epiploic group lies adjacent to the bowel wall just below the peri-   smaller anal opening. By the tenth week, the anal tubercles
+toneum and in the epiploicae. The paracolic nodes are along the       fuse into a horseshoe-shaped structure dorsally and into the
+marginal artery and the vascular arcades. They are most filtering     perineal body anteriorly. The external anal sphincter forms
+of the nodes. The intermediate nodes are situated on the primary      from the posterior aspects of the cloacal sphincter earlier
+colic vessels. The main or principal nodes are on the superior        than the development of the internal sphincter. The internal
+and inferior mesenteric vessels. Once the lymph leaves the main       sphincter develops from enlarging fibers of the circular
+nodes, it drains into the cisterna chili via the para-aortic chain.   ­muscle layer of the rectum [80]. The sphincters migrate
+                                                                       during their development with the internal sphincter mov-
+                                                                       ing caudally, while the external sphincter enlarges cepha-
+Nervous Innervation                                                   lad. Meanwhile, the longitudinal muscle descends into the
+                                                                       intersphincteric plane [9]. In females, the female genital
+The colon is innervated by the sympathetic and parasympa-              organs form from the Müllerian ducts and join the urogeni-
+thetic nervous systems and closely follows the arterial blood          tal sinus by the 16th week of development. In contrast, in
+supply. The sympathetic innervation of the right half of the           males, the urogenital membrane obliterates with fusion of
+colon originates from the lower six thoracic splanchnic                the genital folds, while the sinus develops into the urethra.
+20                                                                                                          J. C. Carmichael and S. Mills
+
+Colon and Small Intestine                                           gut and are therefore supplied by the inferior mesenteric
+                                                                     artery.
+The endodermal roof of the yolk sac develops into the prim-
+itive gut tube. This initially straight tube is suspended upon
+a common mesentery. By week 3 of development, it has                 Midgut Rotation
+three discernible segments: namely, the foregut, midgut, and
+hindgut. The midgut starts below the pancreatic papilla to           There is a normal process by which the intestinal tract rotates
+form the small intestine and the first half of the colon (all        (Fig. 1.12) [81]. The first stage is the physiologic herniation of
+supplied by the superior mesenteric artery). The distal colon        the midgut, the second stage is its return to the abdomen, and the
+and rectum, as well as the anal canal, develop from the hind-        third stage is the fixation of the midgut. Abnormalities in this
+
+                                                       Normal inestinal rotation
+
+
+                 6 week gestation                         8 week gestation                      9 week gestation
+
+
+
+
+                First stage                                                        Second stage
+
+
+
+
+                          11 week gestation                              12 week gestation
+
+
+
+
+                                                           Third stage
+
+Fig. 1.12 Summary of normal intestinal rotation during development
+1   Anatomy and Embryology of the Colon, Rectum, and Anus                                                                            21
+
+normal process lead to various malformations (see below). The        the cloaca. During the second stage (tenth week of gestation),
+physiologic herniation (first stage) occurs between weeks 6 and      the midgut loops return to the peritoneal cavity and simultane-
+8 of development. The primitive gut tube elongates over the          ously rotate an additional 180° in the counterclockwise direc-
+superior mesenteric artery and bulges out through the umbilical      tion (Fig. 1.15). The pre-arterial portion of the duodenum
+cord (Fig. 1.13). During the eighth week, these contents move in     returns to the abdomen first, followed by the counterclockwise
+a counterclockwise fashion, turning 90° from the sagittal to the     rotation around the superior mesenteric vessels, resulting in the
+horizontal plane (Fig. 1.14). Anomalies at this stage are rare but   duodenum lying behind them. The colon returns after the rota-
+include situs inversus, duodenal inversion, and extroversion of      tion, resulting in their anterior location. Anomalies in this stage
+                                                                     are more common and result in non-rotation, malrotation,
+                                                                     reversed rotation, internal hernia, and omphalocele. The third
+    Midline section,                                                 stage (fixation of the midgut) begins once the intestines have
+    midline loop                                                     returned to the peritoneal cavity and ends at birth. The cecum
+                                                                     migrates to the right lower quadrant from its initial position in
+                                                                     the upper abdomen (Fig. 1.16). After the completion of this
+                                                                     270° counterclockwise rotation, fusion begins, typically at
+                                                                     weeks 12–13. This results in fusion of the duodenum as well as
+                                                                     the ascending and descending colons (Fig. 1.17).
+     Vitelline duct                Superior
+                                  mesenteric
+                                    artery
+                                                                     Major Anomalies of Rotation
+
+                                                                     Non-rotation
+                                                                      The midgut returns to the peritoneum without any of the nor-
+                                                                      mal rotation. This results in the small intestine being on the
+                                                                      right side of the abdomen and the colon on the left side
+                  Cecal
+                                                                      (Fig. 1.18). This condition can remain asymptomatic (a find-
+               diverticulum                                           ing noted at laparoscopy or laparotomy) or result in volvulus
+                                                                      affecting the entirety of the small intestine. The twist gener-
+                                                                      ally occurs at the duodenojejunal junction as well as the
+Fig. 1.13 Elongation of the midgut loop                               midtransverse colon.
+
+
+    Rotation of the midgut loop
+
+
+
+
+                              Lateral view
+
+
+
+
+                                                                                          90°
+
+               42 days                                                     50 days
+
+                                                                                          90°
+
+
+Fig. 1.14 Rotation of the midgut loop
+22                                                                                                           J. C. Carmichael and S. Mills
+
+
+     Return to the abdomen
+
+
+
+
+                               180°
+
+                70 days                                                                                         77 days
+
+                               180°
+
+Fig. 1.15 Return of the intestinal loop to the abdomen
+
+
+
+ Later fetal period
+                                                                      Malrotation
+                                                                       There is normal initial rotation, but the cecum fails to com-
+                                                                       plete the normal 270° rotation around the mesentery. This
+                                                                       results in the cecum being located in the mid-upper abdomen
+                                                                       with lateral bands (Ladd’s bands) fixating it to the right
+                                                                       abdominal wall (Fig. 1.19). These bands can result in extrin-
+                                                                       sic compression of the duodenum.
+
+                                                                      Reversed Rotation
+                                                                       Clockwise (rather than counterclockwise) rotation of the
+Ascending                                                Descending
+colon                                                    colon         midgut results in the transverse colon being posterior to the
+                                                                       superior mesenteric artery while the duodenum lies anterior
+                                                                       to it.
+
+                                                                      Omphalocele
+                                                                       An omphalocele is, basically, the retention of the midgut
+                                                                       within the umbilical sac and its failure to return to the perito-
+                                                                       neal cavity. The bowel remains enclosed in a membrane as it
+                                                                       herniates through a defect larger than 4 cm [82].
+                                                Sigmoid colon
+         Cecum and                                                    Internal Hernias
+          appendix
+                                                                       Internal hernias, as well as congenital obstructive bands,
+                                                                       can cause congenital bowel obstructions. These are con-
+Fig. 1.16 Later fetal development
+                                                                       sidered failures of the process of fixation (the third stage
+1   Anatomy and Embryology of the Colon, Rectum, and Anus                                                                 23
+
+
+                                                       Plane of median section
+
+
+
+
+                                                                                 Omental bursa
+
+
+
+
+                                                                                 Plane of horizontal section
+
+
+
+
+                                                        Horizontal section
+
+
+
+
+                                              Descending colon
+                                            Jejunum
+              Ascending colon
+
+
+
+                                                            Median section
+                                            Upper recess
+                  Liver                     omental bursa
+
+
+                                            Epiploic foramen                                         Omental bursa
+
+                                                                                                     Fused layers of greater
+                                            Pancreas                                                 omentum and transverse
+                                                                                                     mesocolon
+      Lesser
+      omentum                               Duodenum
+
+                                            Pyloric stomach
+
+
+                                                                                       Fused layers of
+      Greater                                                                          greater omentum
+      omentum
+                                Transverse colon
+                                and mesocolon
+
+
+Fig. 1.17 Development of the mesentery and omental fusion
+24                                                                                                  J. C. Carmichael and S. Mills
+
+Nonrotation                                                     ther Congenital Malformations of the Colon
+                                                               O
+                                                               and Small Intestine
+
+                                                Stomach
+                                                                roximal Colon Duplication
+                                                               P
+                                                               There are three general types of colonic duplication: mesen-
+Duodenum                                                       teric cysts, diverticula, and long colon duplication [83].
+                                                               Mesenteric cysts are lined with intestinal epithelium and
+Jejunoileal                                                    variable amounts of smooth muscle. They are found within
+loops
+                                                               the colonic mesentery or posterior to the rectum (within the
+                                                               mesorectum). They may be closely adherent to the bowel
+                                                 Ascending
+                                                               wall or separate from it. They generally present as a mass or
+                                                 colon
+                                                               with intestinal obstruction as they enlarge. Diverticula can be
+                                                 Transverse
+                                                 colon
+                                                               found on the mesenteric or antimesenteric sides of the colon
+                                                               and are outpouchings of the bowel wall. They often contain
+                                                 Descending
+                                                 colon         heterotopic gastric or pancreatic tissue. Long colonic dupli-
+                                                               cations of the colon are the rarest form of duplication. They
+                                                               parallel the functional colon and often share a common wall
+                                                               throughout most of their length. They usually run the entire
+                                                               length of the colon and rectum, and there is an association
+                  Cecum                                        with other genitourinary abnormalities.
+Fig. 1.18 Intestinal non-rotation
+                                                               Meckel’s Diverticulum
+                                                                A Meckel’s diverticulum is the remnant of the vitelline or
+Intestinal Malrotation
+                                                                omphalomesenteric duct (Fig. 1.13). It arises from the
+                                                                antimesenteric aspect of the terminal ileum, most com-
+                                                                monly within 50 cm of the ileocecal valve. They can be
+                                                                associated with a fibrous band connecting the diverticulum
+                                                   Stomach
+                                                                to the umbilicus (leading to obstruction), or it may contain
+                                                                ectopic gastric mucosa or pancreatic tissue (leading to
+                                                                bleeding or perforation) (Fig. 1.20). An indirect hernia con-
+Duodenum                                                        taining a Meckel’s diverticulum is termed a Littre’s hernia.
+                                                                Meckel’s diverticulum is generally asymptomatic and, per
+                                                                autopsy series, is found in up to 3% of the population [84].
+Ladd’s bands                                                    Surgical complications, which are more common in chil-
+                                                                dren than adults, include hemorrhage, obstruction, diver-
+                                                   Cecum
+                                                                ticulitis, perforation, and umbilical discharge. Generally,
+                                                                there is no hard indication for excision of an incidentally
+                                                                discovered Meckel’s diverticulum, though its removal is
+                                                                generally safe [85, 86].
+Small intestine
+                                                               Atresia of the Colon
+                                                                Colonic atresia, representing only 5% of all gastrointestinal
+                                                                atresias, is a rare cause of congenital obstruction. They are
+                                                                likely the result of vascular compromise during development
+                                                                [87]. They vary in severity from a membranous diaphragm
+                                                                blocking the lumen to a fibrous cord-like remnant, on to a
+Fig. 1.19 Intestinal malrotation
+                                                                complete absence of a segment [88].
+
+of rotation). This can be the result of an incomplete fusion   Hirschsprung’s Disease
+of the mesothelium or when structures are abnormally            This nonlethal anomaly, which is more common in males,
+rotated. Retroperitoneal hernias can occur in various posi-     results from the absence of ganglion cells within the myen-
+tions, most notably paraduodenal, paracecal, and                teric plexus of the colon. It is caused by interruption of the
+intersigmoid.                                                   normal migration of the neuroenteric cells from the neural
+1   Anatomy and Embryology of the Colon, Rectum, and Anus                                                                                    25
+
+                                                                       Membranous Atresia
+                                                                        This very rare condition is characterized by the presence of a
+                                                                        thin membrane of skin between the blind end of the anal
+                                                                        canal and the surface. It is also termed the covered anus. It is
+                                                                        more common in males.
+
+                                                                       Anal Agenesis
+                                                                        The rectum develops to below the puborectalis where either
+                                                                        it ends in an ectopic opening (fistula) in the perineum, vulva,
+                                                                        or urethra or it ends blindly (less commonly). The sphincter
+                                                                        is present at its normal site.
+
+                                                                       Anorectal Agenesis
+                                                                        Anorectal agenesis is the most common type of “imperforate
+                                                                        anus.” More common in males, the rectum ends well caudal
+                                                                        to the surface, and the anus is represented by a dimple with
+                                                                        the anal sphincter usually being normal in location. In most
+                                                                        cases, there is a fistula to the urethra or vagina. High fistulae
+                                                                        (to the vagina or urethra) with anorectal agenesis develop as
+                                                                        early as the sixth or seventh week of gestation, while the low
+                                                                        fistulae (perineal) or anal ectopia develop later, in the eighth
+                                                                        or ninth week of development.
+Fig. 1.20 Perforated Meckel’s diverticulum with fistula to the ileum
+                                                                        ectal Atresia or “High Atresia”
+                                                                       R
+                                                                       In rectal atresia, the rectum and the anal canal are separated
+                                                                       from one another by an atretic portion. It is embryologically
+crest before they reach the rectum. This results in dilation           the distal most type of colon atresia but is still considered an
+and hypertonicity of the proximal colon. The extent of the             anorectal disorder clinically.
+aganglionosis is variable, though the internal sphincter is
+always involved. Its severity is dependent upon the length of          Persistent Cloaca
+the involved segment. It will be discussed fully in a subse-            This rare condition, which only occurs in female infants, is
+quent chapter.                                                          the result of total failure of descent of the urorectal septum.
+                                                                        It occurs at a very early stage of development.
+
+                                                                       Acknowledgments This chapter builds on previous chapters written
+Anorectal Malformations                                               by José Marcio Neves Jorge and Angelita Habr-Gama in the first and
+                                                                       second editions of this textbook and by Steven Mills and Joseph
+Abnormalities in the normal development of the anorectum               Carmichael in the third edition of this textbook.
+can be attributed to “developmental arrest” at various stages
+of normal development. These abnormalities are often noted
+in concert with spinal, sacral, and lower limb defects, as             References
+noted by Duhamel, and theorized to be related to a “syn-
+drome of caudal regression” [89]. Indeed, skeletal and uri-             1. Milligan ET, Morgan CN. Surgical anatomy of the anal canal: with
+                                                                           special reference to anorectal fistulae. Lancet. 1934;2(5804):1150–6.
+nary anomalies are associated in up to 70% [90], while                  2. Taithongchai A, et al. Comparing the diagnostic accuracy of 3 ultra-
+digestive tract anomalies (e.g., tracheoesophageal fistula or              sound modalities for diagnosing obstetric anal sphincter injuries.
+esophageal stenosis) and cardiac and abdominal wall abnor-                 Am J Obstet Gynecol. 2019;221(2):134.e1–9.
+malities are also noted in patients with anorectal anomalies.           3. Khatri G, de Leon AD, Lockhart ME. MR imaging of the pelvic
+                                                                           floor. Magn Reson Imaging Clin N Am. 2017;25(3):457–80.
+                                                                        4. Nivatvongs S, Stern HS, Fryd DS. The length of the anal canal. Dis
+Anal Stenosis                                                             Colon Rectum. 1981;24(8):600–1.
+ While anal stenosis in a newborn is relatively common, noted           5. Morren GL, Beets-Tan RG, van Engelshoven JM. Anatomy of the
+ in 25–39% of infants, symptomatic stenosis is only noted in               anal canal and perianal structures as defined by phased-array mag-
+                                                                           netic resonance imaging. Br J Surg. 2001;88(11):1506–12.
+ 25% of these children [91]. The majority of these children             6. Parks AG. Pathogenesis and treatment of fistuila-in-ano. Br Med J.
+ undergo spontaneous dilation in the first 3–6 months of life.             1961;1(5224):463–9.
+26                                                                                                                     J. C. Carmichael and S. Mills
+
+ 7. Jay N, et al. Colposcopic appearance of anal squamous intraepi-         31. Shafik A. A new concept of the anatomy of the anal sphincter mecha-
+    thelial lesions: relationship to histopathology. Dis Colon Rectum.          nism and the physiology of defecation. VIII. Levator hiatus and tun-
+    1997;40(8):919–28.                                                          nel: anatomy and function. Dis Colon Rectum. 1979;22(8):539–49.
+ 8. Lilius HG. Fistula-in-ano, an investigation of human foetal anal        32. Andrew BP, et al. Enlargement of the levator hiatus in female pel-
+    ducts and intramuscular glands and a clinical study of 150 patients.        vic organ prolapse: cause or effect? Aust N Z J Obstet Gynaecol.
+    Acta Chir Scand Suppl. 1968;383:7–88.                                       2013;53(1):74–8.
+ 9. Barleben A, Mills S. Anorectal anatomy and physiology. Surg Clin        33. DeLancey JO, et al. Comparison of the puborectal muscle on MRI
+    North Am. 2010;90(1):1–15. Table of Contents.                               in women with POP and levator ani defects with those with normal
+10. Milligan ET, Morgan CN, Jones LE, Officer R. Surgical anatomy of            support and no defect. Int Urogynecol J. 2012;23(1):73–7.
+    the anal canal, and the operative treatment of haemorrhoids. Lancet.    34. Heald RJ, Moran BJ. Embryology and anatomy of the rectum.
+    1937:1119–24.                                                               Semin Surg Oncol. 1998;15(2):66–71.
+11. Sboarina A, et al. Shape and volume of internal anal sphincter          35. Najarian MM, et al. Determination of the peritoneal reflec-
+    showed by three-dimensional anorectal ultrasonography. Eur J                tion using intraoperative proctoscopy. Dis Colon Rectum.
+    Radiol. 2012;81(7):1479–82.                                                 2004;47(12):2080–5.
+12. Haas PA, Fox TA Jr. The importance of the perianal connective tis-      36. Chapuis P, et al. Mobilization of the rectum: anatomic concepts and
+    sue in the surgical anatomy and function of the anus. Dis Colon             the bookshelf revisited. Dis Colon Rectum. 2002;45(1):1–8. discus-
+    Rectum. 1977;20(4):303–13.                                                  sion 8-9
+13. Treitz W. Ueber einen neuen Muskel am Duodenum des Menschen,            37. Heald RJ, Husband EM, Ryall RD. The mesorectum in rec-
+    uber elsatische Sehnen, und einige andere anatomische Verhaltnisse.         tal cancer surgery–the clue to pelvic recurrence? Br J Surg.
+    Vierteljahrschrift Praktische Heilkunde (Prager). 1853;37:133–44.           1982;69(10):613–6.
+14. Chang SC, Shih JJ, Lee H. Review of treitz's muscles and their          38. Nomina Anatomica, 6th Ed.; 1989. Singapore: Churchill Livingstone.
+    implications in a hemorrhoidectomy and hemorrhoidopexy. Fu-Jen          39. Quirke P, et al. Effect of the plane of surgery achieved on local
+    Journal of Medicine. 2006;4(1):1–6.                                         recurrence in patients with operable rectal cancer: a prospective
+15. Thomson WH. The nature of haemorrhoids. Br J Surg.                          study using data from the MRC CR07 and NCIC-CTG CO16 ran-
+    1975;62(7):542–52.                                                          domised clinical trial. Lancet. 2009;373(9666):821–8.
+16. Goligher JC, Leacock AG, Brossy JJ. The surgical anatomy of the         40. Church JM, Raudkivi PJ, Hill GL. The surgical anatomy of the
+    anal canal. Br J Surg. 1955;43(177):51–61.                                  rectum–a review with particular relevance to the hazards of rectal
+17. Bollard RC, et al. Normal female anal sphincter: difficulties in            mobilisation. Int J Color Dis. 1987;2(3):158–66.
+    interpretation explained. Dis Colon Rectum. 2002;45(2):171–5.           41. Sato K, Sato T. The vascular and neuronal composition of the lat-
+18. Hussain SM, Stoker J, Lameris JS. Anal sphincter complex: endoanal          eral ligament of the rectum and the rectosacral fascia. Surg Radiol
+    MR imaging of normal anatomy. Radiology. 1995;197(3):671–7.                 Anat. 1991;13(1):17–22.
+19. Wunderlich M, Swash M. The overlapping innervation of the two           42. Crapp AR, Cuthbertson AM. William Waldeyer and the rectosacral
+    sides of the external anal sphincter by the pudendal nerves. J Neurol       fascia. Surg Gynecol Obstet. 1974;138(2):252–6.
+    Sci. 1983;59(1):97–109.                                                 43. Gordon PH, Nivatvongs S. Principles and practice of surgery for the
+20. Haas PA, Fox TA Jr, Haas GP. The pathogenesis of hemorrhoids.               colon, rectum, and anus. 3rd ed. New York, NY: Informa Healthcare
+    Dis Colon Rectum. 1984;27(7):442–50.                                        USA, Inc.; 2007.
+21. Schuurman JP, Go PM, Bleys RL. Anatomical branches of                   44. Lindsey I, et al. Anatomy of Denonvilliers' fascia and pelvic nerves,
+    the superior rectal artery in the distal rectum. Color Dis.                 impotence, and implications for the colorectal surgeon. Br J Surg.
+    2009;11(9):967–71.                                                          2000;87(10):1288–99.
+22. Stelzner F. Hemorrhoids and other diseases of the conpus caverno-       45. Richardson AC. The rectovaginal septum revisited: its relation-
+    sum recti and anal canal. Dtsch Med Wochenschr. 1963;88:689–96.             ship to rectocele and its importance in rectocele repair. Clin Obstet
+23. Mittal RK, et al. Purse-string morphology of external anal sphincter        Gynecol. 1993;36(4):976–83.
+    revealed by novel imaging techniques. Am J Physiol Gastrointest         46. Corman ML. Classic articles in colonic and rectal surgery.
+    Liver Physiol. 2014;306(6):G505–14.                                         A method of performing abdominoperineal excision for car-
+24. DeLancey JO, et al. Comparison of levator ani muscle defects and            cinoma of the rectum and of the terminal portion of the pelvic
+    function in women with and without pelvic organ prolapse. Obstet            colon: by W. Ernest Miles, 1869–1947. Dis Colon Rectum.
+    Gynecol. 2007;109(2 Pt 1):295–302.                                          1980;23(3):202–5.
+25. Shafik A. New concept of the anatomy of the anal sphincter mecha-       47. Heald RJ, Ryall RD. Recurrence and survival after total mesorectal
+    nism and the physiology of defecation. II. Anatomy of the levator           excision for rectal cancer. Lancet. 1986;1(8496):1479–82.
+    ani muscle with special reference to puborectalis. Investig Urol.       48. Nano M, et al. Contribution to the surgical anatomy of the liga-
+    1975;13(3):175–82.                                                          ments of the rectum. Dis Colon Rectum. 2000;43(11):1592–7; dis-
+26. Malakorn S, et al. Simplified anal sphincter anatomy. Int J Color           cussion 1597–8.
+    Dis. 2016;31(8):1567.                                                   49. Lin M, et al. The anatomy of lateral ligament of the rectum and its
+27. Betschart C, et al. Comparison of muscle fiber directions between           role in total mesorectal excision. World J Surg. 2010;34(3):594–8.
+    different levator ani muscle subdivisions: in vivo MRI measure-         50. Gorsch RV. Proctologic anatomy. 2nd ed. Baltimore: Williams &
+    ments in women. Int Urogynecol J. 2014;25(9):1263–8.                        Wilkins Co.; 1955.
+28. Levi AC, Borghi F, Garavoglia M. Development of the anal canal          51. Ikard RW. Spiral rectal valves: anatomy, eponyms, and clinical sig-
+    muscles. Dis Colon Rectum. 1991;34(3):262–6.                                nificance. Clin Anat. 2015;28(4):436–41.
+29. Grigorescu BA, et al. Innervation of the levator ani muscles:           52. Houston J. John Houston 1802–1845. Observations on the
+    description of the nerve branches to the pubococcygeus, iliococ-            mucous membrane of the rectum. 1830. Dis Colon Rectum.
+    cygeus, and puborectalis muscles. Int Urogynecol J Pelvic Floor             1987;30(11):906–8.
+    Dysfunct. 2008;19(1):107–16.                                            53. Abramson DJ. The valves of Houston in adults. Am J Surg.
+30. Wallner C, et al. Evidence for the innervation of the puborecta-            1978;136(3):334–6.
+    lis muscle by the levator ani nerve. Neurogastroenterol Motil.          54. Kohlrausch O. Zur Anatomie und Physiologie der Beckenorgane.
+    2006;18(12):1121–2.                                                         Leipzig: Verlag von S.Hirzel; 1854.
+1   Anatomy and Embryology of the Colon, Rectum, and Anus                                                                                           27
+
+
+55. Beck DE, Wexner SD. Fundamentals of anorectal surgery.                   74. Haller A. The large intestine. In: Cullen W, editor. First lines of
+    New York: McGraw-Hill; 1992.                                                 physiology. A reprint of the 1786 edition (Soursces of Science 32).
+56. Llauger J, et al. The normal and pathologic ischiorectal fossa at CT         New York: Johnson; 1966. p. 139–40.
+    and MR imaging. Radiographics. 1998;18(1):61–82; quiz 146.               75. Drummond H. Some points relating to the surgical anatomy of
+57. Courtney H. The posterior subsphincteric space; its rela-                    the arterial supply of the large intestine. Proc R Soc Med Proctol.
+    tion to posterior horseshoe fistula. Surg Gynecol Obstet.                    1913;7:185–93.
+    1949;89(2):222–6.                                                        76. Drummond H. The arterial supply of the rectum and pelvic colon.
+58. Michels NA, Siddharth P, Kornblith P, Parke WW. The variant                  Br J Surg. 1914;1:677–85.
+    blood supply to the small and large intestines: its importance in        77. Meyers CB. Griffiths’ point: critical anastomosis at the splenic flex-
+    regional resections. A new anatomic study based on four hundred              ure. Am J Roentgenol. 1976;126:77.
+    dissections with a complete review of the literature. J Int Coll Surg.   78. Watanabe J, et al. Evaluation of the intestinal blood flow near
+    1963;39:127–70.                                                              the rectosigmoid junction using the indocyanine green fluo-
+59. Ayoub SF. Arterial supply to the human rectum. Acta Anat (Basel).            rescence method in a colorectal cancer surgery. Int J Color Dis.
+    1978;100(3):317–27.                                                          2015;30(3):329–35.
+60. Fraser ID, et al. Longitudinal muscle of muscularis externa in           79. Skandalakis JE, Gray SW, Ricketts R. The colon and rectum. In:
+    human and nonhuman primate colon. Arch Surg. 1981;116(1):61–3.               Skadalakis JE, Gray SW, editors. Embryology for surgeons. The
+61. Guyton AC. Textbook of medical physiology. Philadelphia: WB                  embryological basis for the treatment of congenital anomalies.
+    Saunders; 1986.                                                              Baltimore: Williams & Wilkins; 1994. p. 242–81.
+62. Girard-Madoux MJH, et al. The immunological functions of                 80. Nobles VP. The development of the human anal canal. J Anat.
+    the Appendix: an example of redundancy? Semin Immunol.                       1984;138:575.
+    2018;36:31–44.                                                           81. Soffers JH, et al. The growth pattern of the human intestine and its
+63. O'Beirne J, editor. New views of the process of defecation and their         mesentery. BMC Dev Biol. 2015;15:31.
+    application to the pathology and treatment of diseases of the stom-      82. Kelly KB, Ponsky TA. Pediatric abdominal wall defects. Surg Clin
+    ach, bowels and other organs. Dublin: Hodges and Smith; 1833.                North Am. 2013;93(5):1255–67.
+64. Hyrtl J. Handbuch der topographischen anatomie und ihrer prak-           83. McPherson AG, Trapnell JE, Airth GR. Duplication of the colon.
+    tisch medicinisch-chirurgischen anwendungen. II. Band, 4. Aufl.              Br J Surg. 1969;56(2):138–42.
+    Wien: Braumüller; 1860.                                                  84. Benson CD. Surgical implications of Meckel's diverticulum. In:
+65. Mayo WJ. A study of the rectosigmoid. Surg Gynecol Obstet.                   Ravitch MM, Welch KJ, Benson CD, editors. Pediatric surgery.
+    1917;25:616–21.                                                              Chicago: Year Book Medical Publishers; 1979. p. 955.
+66. Cantlie J. The sigmoid flexure in health and disease. J Trop Med         85. Zani A, et al. Incidentally detected Meckel diverticulum: to resect
+    Hyg. 1915;18:1–7.                                                            or not to resect? Ann Surg. 2008;247(2):276–81.
+67. Otis WJ. Some observations on the structure of the rectum. J Anat        86. Park JJ, et al. Meckel diverticulum: the Mayo Clinic experi-
+    Physiol. 1898;32:59–63.                                                      ence with 1476 patients (1950–2002). Ann Surg. 2005;241(3):
+68. Balli R. The sphincters of the colon. Radiology. 1939;33:372–6.              529–33.
+69. Shafik A, et al. Rectosigmoid junction: anatomical, histological,        87. Fomolo JL. Congenital lesions: intussusception and volvulus. In:
+    and radiological studies with special reference to a sphincteric             Zuidema GD, editor. Shackelford’s surgery of the alimentary tract.
+    function. Int J Color Dis. 1999;14(4–5):237–44.                              Philadelphia: WB Saunders; 1991. p. 45–51.
+70. Sonneland J, Anson BJ, Beaton LE. Surgical anatomy of the                88. Louw JH. Investigations into the etiology of congenital atresia of
+    arterial supply to the colon from the superior mesenteric artery             the Colon. Dis Colon Rectum. 1964;7:471–8.
+    based upon a study of 600 specimens. Surg Gynecol Obstet.                89. Duhamel B. From the mermaid to anal imperforation: the syndrome
+    1958;106(4):385–98.                                                          of caudal regression. Arch Dis Child. 1961;36(186):152–5.
+71. Steward JA, Rankin FW. Blood supply of the large intestine. Its          90. Moore TC, Lawrence EA. Congenital malformations of the rectum
+    surgical considerations. Arch Surg. 1933;26:843–91.                          and anus. II. Associated anomalies encountered in a series of 120
+72. Griffiths JD. Surgical anatomy of the blood supply of the distal             cases. Surg Gynecol Obstet. 1952;95(3):281–8.
+    colon. Ann R Coll Surg Engl. 1956;19(4):241–56.                          91. Brown SS, Schoen AH. Congenital anorectal stricture. J Pediatr.
+73. Miyake H, et al. Evaluation of the vascular anatomy of the left-­            1950;36(6):746–51.
+    sided colon focused on the accessory middle colic artery: a single-­
+    Centre study of 734 patients. Color Dis. 2018;20(11):1041–6.
+                                  Colonic Physiology
+                                                                                                                                          2
+                                  Glenn T. Ault and Jennifer S. Beaty
+
+
+
+
+Key Concepts                                                            fourth weeks of gestation, the primitive gut arises from the
+• Colonic innervation is supplied by both extrinsic and intrinsic       cranio-caudal and lateral folding of the dorsal endoderm-­
+  pathways. The extrinsic pathways are derived from the auto-           lined yolk sac. The mucosa arises from the endodermal layer,
+  nomic nervous system. The parasympathetic input is excit-             while the muscular wall, connective tissue, and outer serosal
+  atory, while the sympathetic input is inhibitory to colonic           surface arise from the mesodermal layer. By the fourth week
+  motor function. The intrinsic consists of the myenteric plexus.       of gestation, three distinct regions (foregut, midgut, and
+• The interstitial cells of Cajal (ICC) are the primary pace-           hindgut) have differentiated based on their blood supply. The
+  maker cells of the enteric nervous system.                            foregut, supplied primarily by the celiac artery, consists of
+• The short-chain fatty acid (SCFA) butyrate is the primary             the distal end of the esophagus, stomach, and initial portion
+  energy source of the colon. It is produced by the colon as            of the duodenum. The midgut, supplied by the superior mes-
+  a result of fermentation of complex carbohydrates by                  enteric artery, begins distal to the confluence of the common
+  colonic flora.                                                        bile duct in the third portion of the duodenum and includes
+• The colon absorbs sodium and water and secretes bicar-                the proximal two-thirds of the transverse colon. This portion
+  bonate and potassium. Aldosterone mediates the process                of the intestine maintains a connection to the yolk sac via the
+  of active sodium absorption in the colon.                             vitelline duct. Absence of its obliteration results in a Meckel’s
+• Colonic contractile events are divided into (1) segmental             diverticulum. The hindgut, which comprises the rest of the
+  contractions and (2) propagated contractions, including               distal GI tract, includes the distal transverse colon, descend-
+  low-amplitude propagating contractions (LAPC) and                     ing colon, sigmoid colon, and rectum. This is supplied by the
+  high-amplitude propagating contractions (HAPC). The                   inferior mesenteric artery [2].
+  main function of HAPC is to propagate colonic contents                    During the fifth week of gestation, the midgut undergoes
+  toward the anus.                                                      a rapid elongation which exceeds the capacity of the abdomi-
+                                                                        nal cavity. This results in a physiologic herniation through
+   No organ in the body is so misunderstood, so slandered and so        the abdominal wall at the umbilicus. Through the sixth week
+   maltreated as the colon. Its sorrows are numerous and real. (Sir
+   Arthur F. Hurst. 1921 [1])
+                                                                        of gestation, continued elongation results in a 90° counter-
+                                                                        clockwise rotation around the superior mesenteric artery.
+                                                                        The small intestine continues its significant growth, forming
+Embryology                                                             loops, while the caudal end enlarges into the cecal bud.
+                                                                        During the tenth week of gestation, herniated bowel returns
+Familiarity with the complex embryologic process of colon               to the abdominal cavity, completing an additional 180° coun-
+and rectal development is important to understanding its                terclockwise loop. Anomalies of this stage of development
+function and pathologic processes. During the third and                 may include nonrotation, malrotation, reversed rotation,
+                                                                        internal hernia, and omphalocele. After the bowel is returned
+G. T. Ault (*)                                                          to the abdominal cavity, the disposition of the embryonic
+University of Southern California – Keck School of Medicine,            proximal jejunum is on the left and the primitive colon is on
+Department of Surgery, Division of Colorectal Surgery,
+                                                                        the right. The cecum is the last component to reenter the
+Los Angeles, CA, USA
+e-mail: ault@med.usc.edu                                                abdomen. It is initially located in the right upper quadrant
+                                                                        but then migrates inferiorly to the right iliac fossa, as the
+J. S. Beaty
+Associate Dean for Graduate Medical Education, Des Moines               dorsal mesentery suspending the ascending colon shortens
+University Medicine and Health Sciences, Des Moines, IA, USA            and then recedes [3] (Fig. 2.1). As the cecal bud descends,
+
+© Springer Nature Switzerland AG 2022                                                                                                29
+S. R. Steele et al. (eds.), The ASCRS Textbook of Colon and Rectal Surgery, https://doi.org/10.1007/978-3-030-66049-9_2
+Another Random Scribd Document
+     with Unrelated Content
+medium, by making their experiments in a vacuum. They selected
+with great 150 judgment the conditions of their experiments and
+comparisons, making one quantity vary while the others remained
+constant. In this manner they found, that the quickness of cooling for
+a constant excess of temperature, increases in geometrical
+progression, when the temperature of the surrounding space
+increases in arithmetical progression; whereas, according to the
+Newtonian law, this quickness would not have varied at all. Again,
+this variation being left out of the account, it appeared that the
+quickness of cooling, so far as it depends on the excess of
+temperature of the hot body, increases as the terms of a geometrical
+progression diminished by a constant number, when the temperature
+of the hot body increases in arithmetical progression. These two
+laws, with the coefficients requisite for their application to particular
+substances, fully determine the conditions of cooling in a vacuum.
+
+   Starting from this determination, MM. Dulong and Petit proceeded
+to ascertain the effect of the medium, in which the hot body is
+placed, upon its rate of cooling; for this effect became a residual
+phenomenon, 20 when the cooling in the vacuum was taken away.
+We shall not here follow this train of research; but we may briefly
+state, that they were led to such laws as this;—that the rapidity of
+cooling due to any gaseous medium in which the body is placed, is
+the same, so long as the excess of the body’s temperature is the
+same, although the temperature itself vary;—that the cooling power
+of a gas varies with the elasticity, according to a determined law; and
+other similar rules.
+       20   See Phil. Ind. Sciences, B. xiii. c. 7, Sect. iv.
+   In reference to the process of their induction, it is worthy of notice,
+that they founded their reasonings upon Prevost’s law of exchanges;
+and that, in this way, the second of their laws above stated,
+respecting the quickness of cooling, was a mathematical
+consequence of the first. It may be observed also, that their
+temperatures are measured by means of the air-thermometer, and
+that if they were estimated on another scale, the remarkable
+simplicity and symmetry of their results would disappear. This is a
+strong argument for believing such a measure of temperature to
+have a natural prerogative of simplicity. This belief is confirmed by
+other considerations; but these, depending on the laws of expansion
+by heat, cannot be here referred to; and we must proceed to finish
+our survey of the mathematical theory of heat, as founded on the
+phenomena of radiation and conduction, which alone have as yet
+been traced up to general principles.
+
+  We may observe, before we quit this subject, that this correction of
+151 Newton’s law will materially affect the mathematical calculations
+on the subject, which were made to depend on that law both by
+Fourier, Laplace, and Poisson. Probably, however, the general
+features of the results will be the same as on the old supposition. M.
+Libri, an Italian mathematician, has undertaken one of the problems
+of this kind, that of the armil, with Dulong and Petit’s law for his
+basis, in a Memoir read to the Institute of France in 1825, and since
+published at Florence. 21
+       21   Mém. de Math. et de Phys. 1829.
+
+
+   Sect. 6.—Other Laws of Phenomena with respect to Radiation.
+The laws of radiation as depending upon the surface of radiating
+bodies, and as affecting screens of various kinds interposed
+between the hot body and the thermometer, were examined by
+several inquirers. I shall not attempt to give an account of the latter
+course of research, and of the different laws which luminous and
+non-luminous heat have been found to follow in reference to bodies,
+whether transparent or opaque, which intercept them. But there are
+two or three laws of the phenomena, depending upon the effects of
+the surfaces of bodies, which are important.
+
+  1. In the first place, the powers of bodies to emit and to absorb
+heat, as far as depends upon their surface, appear to be in the same
+proportion. If we blacken the surface of a canister of hot water, it
+radiates heat more copiously; and in the same measure, it is more
+readily heated by radiation.
+
+  2. In the next place, as the radiative power increases, the power of
+reflection diminishes, and the contrary. A bright metal vessel reflects
+much heat; on this very account it does not emit much; and hence a
+hot fluid which such a vessel contains, remains hot longer than it
+does in an unpolished case.
+
+   3. The heat is emitted from every point of the surface of a hot body
+in all directions; but by no means in all directions with equal intensity.
+The intensity of the heating ray is as the sine of the angle which it
+makes with the surface.
+
+  The last law is entirely, the two former in a great measure, due to
+the researches of Leslie, whose Experimental Inquiry into the Nature
+and Propagation of Heat, published in 1804, contains a great
+number of curious and striking results and speculations. The laws
+now just 152 stated bear, in a very important manner, upon the
+formation of the theory; and we must now proceed to consider what
+appears to have been done in this respect; taking into account, it
+must still be borne in mind, only the phenomena of conduction and
+radiation.
+
+
+             Sect. 7.—Fourier’s Theory of Radiant Heat.
+
+The above laws of phenomena being established, it was natural that
+philosophers should seek to acquire some conception of the physical
+action by which they might account, both for these laws, and for the
+general fundamental facts of Thermotics; as, for instance, the fact
+that all bodies placed in an inclosed space assume, in time, the
+temperature of the inclosure. Fourier’s explanation of this class of
+phenomena must be considered as happy and successful; for he has
+shown that the supposition to which we are led by the most simple
+and general of the facts, will explain, moreover, the less obvious
+laws. It is an obvious and general fact, that bodies which are
+included in the space tend to acquire the same temperature. And this
+identity of temperature of neighboring bodies requires an hypothesis,
+which, it is found, also accounts for Leslie’s law of the sine, in
+radiation.
+
+  This hypothesis is, that the radiation takes place, not from the
+surface alone of the hot body, but from all particles situated within a
+certain small depth of the surface. It is easy to see 22 that, on this
+supposition, a ray emitted obliquely from an internal particle, will be
+less intense than one sent forth perpendicular to the surface,
+because the former will be intercepted in a greater degree, having a
+greater length of path within the body; and Fourier shows, that
+whatever be the law of this intercepting power, the result will be, that
+the radiative intensity is as the sine of the angle made by the ray with
+the surface.
+       22   Mém. Inst. t. v. 1821, p. 204.
+
+   But this law is, as I have said, likewise necessary, in order that
+neighboring bodies may tend to assume the same temperature: for
+instance, in order that a small particle placed within a spherical shell,
+should finally assume the temperature of the shell. If the law of the
+sines did not obtain, the final temperature of such a particle would
+depend upon its place in the inclosure; 23 and within a shell of ice we
+should have, at certain points, the temperature of boiling water and
+of melting iron.
+       23   An. Chim. iv. 1817, p. 129.
+
+  This proposition may at first appear strange and unlikely; but it
+may 153 be shown to be a necessary consequence of the assumed
+principle, by very simple reasoning, which I shall give in a general
+form in a Note. 24
+       24  The following reasoning may show the connexion of the law of
+       the sines in radiant heat with the general principle of ultimate
+       identity of neighboring temperatures. The equilibrium and identity
+       of temperature between an including shell and an included body,
+       cannot obtain upon the whole, except it obtain between each pair
+       of parts of the two surfaces of the body and of the shell; that is,
+       any part of the one surface, in its exchanges with any part of the
+       other surface, must give and receive the same quantity of heat.
+       Now the quantity exchanged, so far as it depends on the receiving
+       surface, will, by geometry, be proportional to the sine of the
+       obliquity of that surface: and as, in the exchanges, each may be
+       considered as receiving, the quantity transferred must be
+       proportional to the sines of the two obliquities; that is, to that of
+       the giving as well as of the receiving surface.
+           Nor is this conclusion disturbed by the consideration, that all the
+       rays of heat which fall upon a surface are not absorbed, some
+       being reflected according to the nature of the surface. For, by the
+       other above-mentioned laws of phenomena, we know that, in the
+       same measure in which the surface loses the power of admitting,
+       it loses the power of emitting, heat; and the superficial parts gain,
+       by absorbing their own radiation, as much as they lose by not
+       absorbing the incident heat; so that the result of the preceding
+       reasoning remains unaltered.
+
+  This reasoning is capable of being presented in a manner quite
+satisfactory, by the use of mathematical symbols, and proves that
+Leslie’s law of the sines is rigorously and mathematically true on
+Fourier’s hypothesis. And thus Fourier’s theory of molecular extra-
+radiation acquires great consistency.
+
+
+            Sect. 8.—Discovery of the Polarization of Heat.
+
+The laws of which the discovery is stated in the preceding Sections
+of this Chapter, and the explanations given of them by the theories of
+conduction and radiation, all tended to make the conception of a
+material heat, or caloric, communicated by an actual flow and
+emission, familiar to men’s minds; and, till lately, had led the greater
+part of thermotical philosophers to entertain such a view, as the most
+probable opinion concerning the nature of heat. But some steps
+have recently been made in thermotics, which appear to be likely to
+overturn this belief, and to make the doctrine of emission as
+untenable with regard to heat, as it had been found to be with regard
+to light. I speak of the discovery of the polarization of heat. It being
+ascertained that rays of heat are polarized in the same manner as
+rays of 154 light, we cannot retain the doctrine that heat radiates by
+the emanation of material particles, without supposing those
+particles of caloric to have poles; an hypothesis which probably no
+one would embrace; for, besides that the ill fortune which attended
+that hypothesis in the case of light must deter speculators from it, the
+intimate connexion of heat and light would hardly allow us to
+suppose polarization in the two cases to be produced by two
+different kinds of machinery.
+
+  But, without here tracing further the influence which the
+polarization of heat must exercise upon the formation of our theories
+of heat, we must briefly notice this important discovery, as a law of
+phenomena.
+
+   The analogies and connexions between light and heat are so
+strong, that when the polarization of light had been discovered, men
+were naturally led to endeavor to ascertain whether heat possessed
+any corresponding property. But partly from the difficulty of obtaining
+any considerable effect of heat separated from light, and partly from
+the want of a thermometrical apparatus sufficiently delicate, these
+attempts led, for some time, to no decisive result. M. Berard took up
+the subject in 1813. He used Malus’s apparatus, and conceived that
+he found heat to be polarized by reflection at the surface of glass, in
+the same manner as light, and with the same circumstances. 25 But
+when Professor Powell, of Oxford, a few years later (1830), repeated
+these experiments with a similar apparatus, he found 26 that though
+the heat which is conveyed along with light is, of course, polarizable,
+“simple radiant heat,” as he terms it, did not offer the smallest
+difference in the two rectangular azimuths of the second glass, and
+thus showed no trace of polarization.
+       25   Ann. Chim. March, 1813.
+
+       26   Edin. Journ. of Science, 1830, vol. ii. p. 303.
+   Thus, with the old thermometers, the point remained doubtful. But
+soon after this time, MM. Melloni and Nobili invented an apparatus,
+depending on certain galvanic laws, of which we shall have to speak
+hereafter, which they called a thermomultiplier; and which was much
+more sensitive to changes of temperature than any previously-known
+instrument. Yet even with this instrument, M. Melloni failed; and did
+not, at first, detect any perceptible polarization of heat by the
+tourmaline; 27 nor did M. Nobili, 28 in repeating M. Berard’s
+experiment. But in this experiment the attempt was made to polarize
+heat by reflection from glass, as light is polarized: and the quantity
+155 reflected is so small that the inevitable errors might completely
+disguise the whole difference in the two opposite positions. When
+Prof. Forbes, of Edinburgh, (in 1834,) employed mica in the like
+experiments, he found a very decided polarizing effect; first, when
+the heat was transmitted through several films of mica at a certain
+angle, and afterwards, when it was reflected from them. In this case,
+he found that with non-luminous heat, and even with the heat of
+water below the boiling point, the difference of the heating power in
+the two positions of opposite polarity (parallel and crossed) was
+manifest. He also detected by careful experiments, 29 the polarizing
+effect of tourmaline. This important discovery was soon confirmed by
+M. Melloni. Doubts were suggested whether the different effect in the
+opposite positions might not be due to other circumstances; but
+Professor Forbes easily showed that these suppositions were
+inadmissible; and the property of a difference of sides, which at first
+seemed so strange when ascribed to the rays of light, also belongs,
+it seems to be proved, to the rays of heat. Professor Forbes also
+found, by interposing a plate of mica to intercept the ray of heat in an
+intermediate point, an effect was produced in certain positions of the
+mica analogous to what was called depolarization in the case of
+light; namely, a partial destruction of the differences which
+polarization establishes.
+       27   Ann. de Chimie, vol. lv.
+
+       28   Bibliothèque Universelle.
+
+       29
+        Ed. R. S. Transactions, vol. xiv.; and Phil. Mag. 1835, vol. v. p.
+      209. Ib. vol. vii. p. 349.
+
+   Before this discovery, M. Melloni had already proved by
+experiment that heat is refracted by transparent substances as light
+is. In the case of light, the depolarizing effect was afterwards found
+to be really, as we have seen, a dipolarizing effect, the ray being
+divided into two rays by double refraction. We are naturally much
+tempted to put the same interpretation upon the dipolarizing effect in
+the case of heat; but perhaps the assertion of the analogy between
+light and heat to this extent is as yet insecure.
+
+    It is the more necessary to be cautious in our attempt to identify
+the laws of light and heat, inasmuch as along with all the
+resemblances of the two agents, there are very important
+differences. The power of transmitting light, the diaphaneity of
+bodies, is very distinct from their power of transmitting heat, which
+has been called diathermancy by M. Melloni. Thus both a plate of
+alum and a plate of rock-salt transmit nearly the whole light; but
+while the first stops nearly the whole heat, the second stops very
+little of it; and a plate of opake 156 quartz, nearly impenetrable by
+light, allows a large portion of the heat to pass. By passing the rays
+through various media, the heat may be, as it were, sifted from the
+light which accompanies it.
+   [2nd Ed.] [The diathermancy of bodies is distinct from their
+diaphaneity, in so far that the same bodies do not exercise the same
+powers of selection and suppression of certain rays on heat and on
+light; but it appears to be proved by the investigations of modern
+thermotical philosophers (MM. De la Roche, Powell, Melloni, and
+Forbes), that there is a close analogy between the absorption of
+certain colors by transparent bodies, and the absorption of certain
+kinds of heat by diathermanous bodies. Dark sources of heat emit
+rays which are analogous to blue and violet rays of light; and highly
+luminous sources emit rays which are analogous to red rays. And by
+measuring the angle of total reflection for heat of different kinds, it
+has been shown that the former kind of calorific rays are really less
+refrangible than the latter. 30
+       30 See Prof. Forbes’s Third Series of Researches on Heat, Edinb.
+       R.S. Trans. vol. xiv.
+
+   M. Melloni has assumed this analogy as so completely
+established, that he has proposed for this part of thermotics the
+name Thermochroology (Qu. Chromothermotics?); and along with
+this term, many others derived from the Greek, and founded on the
+same analogy. If it should appear, in the work which he proposes to
+publish on this subject, that the doctrines which he has to state
+cannot easily be made intelligible without the use of the terms he
+suggests, his nomenclature will obtain currency; but so large a mass
+of etymological innovations is in general to be avoided in scientific
+works.
+
+   M. Melloni’s discovery of the extraordinary power of rock-salt to
+transmit heat, and Professor Forbes’s discovery of the extraordinary
+power of mica to polarize and depolarize heat, have supplied
+thermotical inquirers with two new and most valuable instruments. 31 ]
+      31 For an account of many thermotical researches, which I have
+      been obliged to pass unnoticed here, see two Reports by Prof.
+      Powell on the present state of our knowledge respecting Radiant
+      Heat, in the Reports of the British Association for 1832 and 1840.
+
+  Moreover, besides the laws of conduction and radiation, many
+other laws of the phenomena of heat have been discovered by
+philosophers; and these must be taken into account in judging any
+theory of heat. To these other laws we must now turn our attention.
+157
+                            CHAPTER II.
+
+               The Laws of Changes occasioned by Heat.
+
+
+
+Sect. 1.—Expansion by Heat.—The Law of Dalton and Gay-Lussac
+                         for Gases.
+
+
+A LMOST   all bodies expand by heat; solids, as metals, in a small
+  degree; fluids, as water, oil, alcohol, mercury, in a greater
+degree. This was one of the facts first examined by those who
+studied the nature of heat, because this property was used for the
+measure of heat. In the Philosophy of the Inductive Sciences, Book
+iv., Chap. iv., I have stated that secondary qualities, such as Heat,
+must be measured by their effects: and in Sect. 4 of that Chapter I
+have given an account of the successive attempts which have been
+made to obtain measures of heat. I have there also spoken of the
+results which were obtained by comparing the rate at which the
+expansion of different substances went on, under the same degrees
+of heat; or as it was called, the different thermometrical march of
+each substance. Mercury appears to be the liquid which is most
+uniform in its thermometrical march; and it has been taken as the
+most common material of our thermometers; but the expansion of
+mercury is not proportional to the heat. De Luc was led, by his
+experiments, to conclude “that the dilatations of mercury follow an
+accelerated march for equal augmentations of heat.” Dalton
+conjectured that water and mercury both expand as the square of
+the real temperature from the point of greatest contraction: the real
+temperature being measured so as to lead to such a result. But none
+of the rules thus laid down for the expansion of solids and fluids
+appear to have led, as yet, to any certain general laws.
+
+  With regard to gases, thermotical inquirers have been more
+successful. Gases expand by heat; and their expansion is governed
+by a law which applies alike to all degrees of heat, and to all
+gaseous fluids. The law is this: that for equal increments of
+temperature they expand by the same fraction of their own bulk;
+which fraction is three-eights 158 in proceeding from freezing to
+boiling water. This law was discovered by Dalton and M. Gay-Lussac
+independently of each other; 32 and is usually called by both their
+names, the law of Dalton and Gay-Lussac. The latter says, 33 “The
+experiments which I have described, and which have been made
+with great care, prove incontestably that oxygen, hydrogen, azotic
+acid, nitrous acid, ammoniacal acid, muriatic acid, sulphurous acid,
+carbonic acid, gases, expand equally by equal increments of heat.”
+“Therefore,” he adds with a proper inductive generalization, “the
+result does not depend upon physical properties, and I collect that all
+gases expand equally by heat.” He then extends this to vapors, as
+ether. This must be one of the most important foundation-stones of
+any sound theory of heat.
+       32   Manch. Mem. vol. v. 1802; and Ann. Chim. xliii. p. 137.
+
+       33   Ib. p. 272.
+
+   [2nd Ed.] Yet MM. Magnus and Regnault conceive that they have
+overthrown this law of Dalton and Gay-Lussac, and shown that the
+different gases do not expand alike for the same increment of heat.
+Magnus found the ratio to be for atmospheric air, 1∙366; for
+hydrogen, 1∙365; for carbonic acid, 1∙369; for sulphurous-acid gas,
+1∙385. But these differences are not greater than the differences
+obtained for the same substances by different observers; and as this
+law is referred to in Laplace’s hypothesis, hereafter to be discussed,
+I do not treat the law as disproved.
+
+   Yet that the rate of expansion of gas in certain circumstances is
+different for different substances, must be deemed very probable,
+after Dr. Faraday’s recent investigations On the Liquefaction and
+Solidification of Bodies generally existing as Gases, 34 by which it
+appears that the elasticity of vapors in contact with their fluids
+increases at different rates in different substances. “That the force,”
+he says, “of vapor increases in a geometrical ratio for equal
+increments of heat is true for all bodies, but the ratio is not the same
+for all. . . . For an increase of pressure from two to six atmospheres,
+the following number of degrees require to be added to the bodies
+named:—water 69°, sulphureous acid 63°, cyanogen 64°∙5,
+ammonia 60°, arseniuretted hydrogen 54°, sulphuretted hydrogen
+56°∙5, muriatic acid 43°, carbonic acid 32°∙5, nitrous oxide 30°.”]
+       34   Phil. Trans. 1845, Pt. 1.
+
+   We have already seen that the opinion that the air-thermometer is
+a true measure of heat, is strongly countenanced by the symmetry
+which, by using it, we introduce into the laws of radiation. If we 159
+accept the law of Dalton and Gay-Lussac, it follows that this result is
+independent of any peculiar properties in the air employed; and thus
+this measure has an additional character of generality and simplicity
+which make it still more probable that it is the true standard. This
+opinion is further supported by the attempts to include such facts in a
+theory; but before we can treat of such theories, we must speak of
+some other doctrines which have been introduced.
+            Sect. 2.—Specific Heat.—Change of Consistence.
+
+In the attempts to obtain measures of heat, it was found that bodies
+had different capacities for heat; for the same quantity of heat,
+however measured, would raise, in different degrees, the
+temperature of different substances. The notion of different
+capacities for heat was thus introduced, and each body was thus
+assumed to have a specific capacity for heat, according to the
+quantity of heat which it required to raise it through a given scale of
+heat. 35 The term “capacity for heat” was introduced by Dr. Irvine, a
+pupil of Dr. Black. For this term, Wilcke, the Swedish physicist,
+substituted “specific heat;” in analogy with “specific gravity.”
+       35   See Crawford, On Heat, for the History of Specific Heat.
+
+   It was found, also, that the capacity of the same substance was
+different in the same substance at different temperatures. It appears
+from experiments of MM. Dulong and Petit, that, in general, the
+capacity of liquids and solids increases as we ascend in the scale of
+temperature.
+
+   But one of the most important thermotic facts is, that by the
+sudden contraction of any mass, its temperature is increased. This is
+peculiarly observable in gases, as, for example, common air. The
+amount of the increase of temperature by sudden condensation, or
+of the cold produced by sudden rarefaction, is an important datum,
+determining the velocity of sound, as we have already seen, and
+affecting many points of meteorology. The coefficient which enters
+the calculation in the former case depends on the ratio of two
+specific heats of air under different conditions; one belonging to it
+when, varying in density, the pressure is constant by which the air is
+contained; the other, when, varying in density, it is contained in a
+constant space.
+
+   A leading fact, also, with regard to the operation of heat on bodies
+160 is, that it changes their form, as it is often called, that is, their
+condition as solid, liquid, or air. Since the term “form” is employed in
+too many and various senses to be immediately understood when it
+is intended to convey this peculiar meaning, I shall use, instead of it,
+the term consistence, and shall hope to be excused, even when I
+apply this word to gases, though I must acknowledge such
+phraseology to be unusual. Thus there is a change of consistence
+when solids become liquid, or liquids gaseous; and the laws of such
+changes must be fundamental facts of our thermotical theories. We
+are still in the dark as to many of the laws which belong to this
+change; but one of them, of great importance, has been discovered,
+and to that we must now proceed.
+
+
+                Sect. 3.—The Doctrine of Latent Heat.
+
+The Doctrine of Latent Heat refers to such changes of consistence
+as we have just spoken of. It is to this effect; that during the
+conversion of solids into liquids, or of liquids into vapors, there is
+communicated to the body heat which is not indicated by the
+thermometer. The heat is absorbed, or becomes latent; and, on the
+other hand, on the condensation of the vapor to a liquid, or the liquid
+to a solid consistency, this heat is again given out and becomes
+sensible. Thus a pound of ice requires twenty times as long a time,
+in a warm room, to raise its temperature seven degrees, as a pound
+of ice-cold water does. A kettle placed on a fire, in four minutes had
+its temperature raised to the boiling point, 212°: and this temperature
+continued stationary for twenty minutes, when the whole was boiled
+away. Dr. Black inferred from these facts that a large quantity of heat
+is absorbed by the ice in becoming water, and by the water in
+becoming steam. He reckoned from the above experiments, that ice,
+in melting, absorbs as much heat as would raise ice-cold water
+through 140° of temperature: and that water, in evaporating, absorbs
+as much heat as would raise it through 940°.
+
+   That snow requires a great quantity of heat to melt it; that water
+requires a great quantity of heat to convert it into steam; and that this
+heat is not indicated by a rise in the thermometer, are facts which it
+is not difficult to observe; but to separate these from all extraneous
+conditions, to group the cases together, and to seize upon the
+general law by which they are connected, was an effort of inductive
+insight, which has been considered, and deservedly, as one of the
+most striking 161 events in the modern history of physics. Of this step
+the principal merit appears to belong to Black.
+
+   [2nd Ed.] [In the first edition I had mentioned the names of De Luc
+and of Wilcke, in connexion with the discovery of Latent Heat, along
+with the name of Black. De Luc had observed, in 1755, that ice, in
+melting, did not rise above the freezing-point of temperature till the
+whole was melted. De Luc has been charged with plagiarizing
+Black’s discovery, but, I think, without any just ground. In his Idées
+sur la Météorologique (1787), he spoke of Dr. Black as “the first who
+had attempted the determinations of the quantities of latent heat.”
+And when Mr. Watt pointed out to him that from this expression it
+might be supposed that Black had not discovered the fact itself, he
+acquiesced, and redressed the equivocal expression in an Appendix
+to the volume. 36
+       36  See his Letter to the Editors of the Edinburgh Review, No. xii.
+       p. 502, of the Review.
+
+  Black never published his own account of the doctrine of Latent
+Heat: but he delivered it every year after 1760 in his Lectures. In
+1770, a surreptitious publication of his Lectures was made by a
+London bookseller, and this gave a view of the leading points of Dr.
+Black’s doctrine. In 1772, Wilcke, of Stockholm, read a paper to the
+Royal Society of that city, in which the absorption of heat by melting
+ice is described; and in the same year, De Luc of Geneva published
+his Recherches sur les Modifications de l’Atmosphère, which has
+been alleged to contain the doctrine of latent heat, and which the
+author asserts to have been written in ignorance of what Black had
+done. At a later period, De Luc, adopting, in part. Black’s expression,
+gave the name of latent fire to the heat absorbed. 37
+       37   See Ed. Rev. No. vi. p. 20.
+
+  It appears that Cavendish determined the amount of heat
+produced by condensing steam, and by thawing snow, as early as
+1765. He had perhaps already heard something of Black’s
+investigations, but did not accept his term “latent heat”. 38 ]
+       38 See Mr. V. Harcourt’s Address to the Brit. Assoc. in 1839, and
+       the Appendix.
+
+  The consequences of Black’s principle are very important, for
+upon it is founded the whole doctrine of evaporation; besides which,
+the principle of latent heat has other applications. But the relations of
+aqueous vapor to air are so important, and have been so long a 162
+subject of speculation, that we may with advantage dwell a little upon
+them. The part of science in which this is done may be called, as we
+have said, Atmology; and to that division of Thermotics the following
+chapters belong.
+ATMOLOGY.
+Welcome to our website – the ideal destination for book lovers and
+knowledge seekers. With a mission to inspire endlessly, we offer a
+vast collection of books, ranging from classic literary works to
+specialized publications, self-development books, and children's
+literature. Each book is a new journey of discovery, expanding
+knowledge and enriching the soul of the reade
+
+Our website is not just a platform for buying books, but a bridge
+connecting readers to the timeless values of culture and wisdom. With
+an elegant, user-friendly interface and an intelligent search system,
+we are committed to providing a quick and convenient shopping
+experience. Additionally, our special promotions and home delivery
+services ensure that you save time and fully enjoy the joy of reading.
+
+Let us accompany you on the journey of exploring knowledge and
+personal growth!
+
+
+
+
+                         ebooknice.com
+
