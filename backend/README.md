@@ -1,1 +1,1 @@
-using https://github.com/langtalks/swe-agent directory as template
+SCORE AI

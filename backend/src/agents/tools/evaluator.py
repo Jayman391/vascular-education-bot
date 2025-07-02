@@ -3,5 +3,5 @@ from langsmith import traceable
 
 @traceable
 @tool
-def websearch(query: str) -> str:
+def evaluate(query: str) -> str:
   return ""
